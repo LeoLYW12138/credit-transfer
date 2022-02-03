@@ -1,6 +1,9 @@
 import csv
-from sqlite3 import Time
+import time
 import traceback
+import sys
+import os
+
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -12,10 +15,14 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 FIELDNAMES = ['school_name', 'country', 'oversea_course',
               'oversea_code', 'ust_course', 'ust_code', 'credit', 'ref']
+COUNTRY = "Any"
+NAME = "Any"
+COURSE_CODE = "COMP"
+COURSE = "Any"
 
 
 def get_url(
-    n): return f"https://registry.hkust.edu.hk/useful-tools/credit-transfer/database-institution/results-institution?admission_term=2022-23+Spring&country_institution=Any&institution_name=Any&hkust_course_code=COMP&hkust_subject=Any&form_build_id=form-YNkfBITcgeGJuyJbhEkCB2Lf305x-aQPsXw-2PKV9Uw&form_id=institution_results_form&op=Search&page={n}"
+    n): return f"https://registry.hkust.edu.hk/useful-tools/credit-transfer/database-institution/results-institution?admission_term=2022-23+Spring&country_institution={COUNTRY}&institution_name={NAME}&hkust_course_code={COURSE_CODE}&hkust_subject={COURSE}&form_build_id=form-YNkfBITcgeGJuyJbhEkCB2Lf305x-aQPsXw-2PKV9Uw&form_id=institution_results_form&op=Search&page={n}"
 
 
 def get_page_data(driver, url):
@@ -25,6 +32,11 @@ def get_page_data(driver, url):
         EC.presence_of_element_located((By.ID, "institution-results")))
     results = institution_results.find_elements(
         By.CSS_SELECTOR, ".result-items")
+    result_count = institution_results.find_elements(
+        By.CSS_SELECTOR, ".result-count-results__num")
+    current = result_count[0].text.strip().split("-")[1]
+    end = result_count[1].text.strip()
+    isEnd = current == end
     try:
         pageNext = WebDriverWait(driver, 20).until(EC.presence_of_element_located(
             (By.CSS_SELECTOR, "li.pager__item.pager__item--next > a"))).get_attribute("data-page")
@@ -32,7 +44,7 @@ def get_page_data(driver, url):
         print("end")
         raise TimeoutException
 
-    return results, pageNext
+    return results, isEnd
 
 
 def get_result_obj(result):
@@ -93,22 +105,23 @@ def main():
 
     write_csv()
     i = 1
-    while True:
-        try:
-            print(i)
-            results, pageNext = get_page_data(driver, get_url(i))
+    try:
+        while True:
+            start = time.perf_counter()
+            results, end = get_page_data(driver, get_url(i))
             for result in results:
                 append_csv(get_result_obj(result))
-                # print(get_result_obj(result))
-            i = int(pageNext)
-        except TimeoutException:
-            print("program ends")
-            break
-        except:
-            traceback.print_exc()
-            break
-
-    driver.quit()
+            end = time.perf_counter()
+            print(
+                f"Scrapped page {i} for {len(results)} institutions. Used {end - start:0.4f} seconds")
+            if end:
+                break
+            i += 1
+    except:
+        traceback.print_exc()
+    finally:
+        print("finally")
+        driver.quit()
 
 
 if __name__ == '__main__':
