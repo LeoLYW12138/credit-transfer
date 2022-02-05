@@ -5,7 +5,6 @@ import traceback
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -37,12 +36,6 @@ def get_page_data(driver, url):
         By.CSS_SELECTOR, ".result-count-results__num")
     showing = result_count[0].text.strip().split("-")
     total = result_count[1].text.strip()
-    # try:
-    #     pageNext = WebDriverWait(driver, 20).until(EC.presence_of_element_located(
-    #         (By.CSS_SELECTOR, "li.pager__item.pager__item--next > a"))).get_attribute("data-page")
-    # except TimeoutException:
-    #     print("end")
-    #     raise TimeoutException
 
     return results, (int(showing[0]), int(showing[1]), int(total))
 
