@@ -12,6 +12,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.utils import ChromeType
 
 FIELDNAMES = ['school_name', 'country', 'oversea_course',
               'oversea_code', 'ust_course', 'ust_code', 'credit', 'ref']
@@ -99,10 +100,11 @@ def append_csv(data):
 
 def main():
     options = webdriver.ChromeOptions()
-    options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome(service=Service(
-        ChromeDriverManager().install()), options=options)
-
+    #options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    options.headless = True
+    # driver = webdriver.Chrome(service=Service(
+     #   ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()), options=options)
+    driver = webdriver.Chrome(service=Service("/usr/bin/chromedriver"), options=options)
     write_csv()
     i = 1
     try:
