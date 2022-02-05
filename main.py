@@ -5,12 +5,9 @@ import traceback
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.utils import ChromeType
 
 FIELDNAMES = ['school_name', 'country', 'oversea_course',
               'oversea_code', 'ust_course', 'ust_code', 'credit', 'ref']
@@ -38,13 +35,6 @@ def get_page_data(driver, url):
         By.CSS_SELECTOR, ".result-count-results__num")
     showing = result_count[0].text.strip().split("-")
     total = result_count[1].text.strip()
-    # try:
-    #     pageNext = WebDriverWait(driver, 20).until(EC.presence_of_element_located(
-    #         (By.CSS_SELECTOR, "li.pager__item.pager__item--next > a"))).get_attribute("data-page")
-    # except TimeoutException:
-    #     print("end")
-    #     raise TimeoutException
-
     return results, (int(showing[0]), int(showing[1]), int(total))
 
 
@@ -100,8 +90,6 @@ def append_csv(data):
 
 def main():
     options = webdriver.ChromeOptions()
-    # driver = webdriver.Chrome(service=Service(
-    #   ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()), options=options)
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
     options.add_argument("--window-size=1920,1080")
     options.add_argument("--disable-extensions")
@@ -143,7 +131,7 @@ def main():
         traceback.print_exc()
     finally:
         driver.quit()
-        print("finally")
+        print("Finish")
 
 
 if __name__ == '__main__':
