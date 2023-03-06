@@ -1,422 +1,659 @@
-school_name,country,oversea_course,oversea_code,ust_course,ust_code,credit,ref
-Boston College,United States,Topics in Computer Science: Introduction to Network Science,CSCI3390,Computer Science Track Course,COMPA&T,3 Credits,B034352-02
-Boston College,United States,Topics in Parallel Computing: Parallel Algorithms and GPU Computing,CSCI3396,Parallel Programming,COMP5112,3 Credits,B034386-01
-Case Western Reserve University,United States,Introduction to Programming with Java,EECS132,Introduction to Computing with Java,COMP1022P,3 Credits,B035792-01
-Chungbuk National University,"Korea, Republic of",Cultivating Computational Thinking,0914001,Introduction to Computer Science,COMP1021,3 Credits,B036042-01
-City University of Hong Kong,"Hong Kong SAR, China",Microcomputer Systems,EE2004,Computer Organization,COMP2611,4 Credits,B036194-01
-"College of International Education, Hong Kong Baptist University","Hong Kong SAR, China",Essentials of Information Management Technology,GECR1001,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B002568-03
-Columbia University in the City of New York,United States,Computability and Models of Computation,CS3261,Theory of Computation,COMP3721,3 Credits,B032999-01
-Columbia University in the City of New York,United States,Introduction to Databases,COMS4111,Database Management Systems,COMP3311,3 Credits,B036366-01
-Columbia University in the City of New York,United States,Machine Learning,COMS4771,Machine Learning,COMP4211,3 Credits,B034831-01
-Columbia University in the City of New York,United States,Operating Systems I,COMS4118,Operating Systems,COMP3511,3 Credits,B035531-01
-Cornell University,United States,Autonomous Mobile Robots,MAE4180/CS3758/ECE47,Perception and Information Processing for Robotics,COMP5223,3 Credits,B035679-01
-Cornell University,United States,Discrete Structures,CS2800,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B008046-02
-Cornell University,United States,Fundamentals of Machine Learning,ECE4200,Machine Learning,COMP4211,3 Credits,B035026-01
-Cornell University,United States,Introduction to Computing using Python,CS1110,Introduction to Computer Science,COMP1021,3 Credits,B010690-02
-Czech Technical University in Prague,Czech Republic,Computer and Communication Networks,BE5B32PKS,Computer Communication Networks I,COMP4621,3 Credits,B033727-01
-Czech Technical University in Prague,Czech Republic,Network Operating Systems,BE6B32SOS,Computer Science Track Course,COMPS&N,3 Credits,B033729-02
-Czech Technical University in Prague,Czech Republic,Network Technology 1,BIEST1,Computer Science Track Course,COMPS&N,2 Credits,B033728-01
-Ecole Polytechnique Federale de Lausanne,Switzerland,A network tour of data science,EE558,Computer Science Track Course,COMPS&D,3 Credits,B033261-01
-Ecole Polytechnique Federale de Lausanne,Switzerland,Advanced Cryptography,COM-501,Computer Science Track Course,COMPS&N,3 Credits,B037245-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Computational Photography,CS413,Computer Science Track Course,COMPG&M,3 Credits,B034263-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Computer security,COM301,Principles of Cybersecurity,COMP3632,3 Credits,B034678-01
-Ecole Polytechnique Federale de Lausanne,Switzerland,Deep Learning,EE559,Computer Science Track Course,COMPA&T,3 Credits,B034264-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Experience design,CS489,Computer Science Track Course,COMPG&M,3 Credits,B033266-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Graph Theory,MATH360,Computer Science Track Course,COMPA&T,3 Credits,B032234-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Computer Graphics,CS341,Computer Graphics,COMP4411,3 Credits,B007724-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Database Systems,CS322,Database Management Systems,COMP3311,3 Credits,B007725-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Machine Learning (BA4),CS233(B),Machine Learning,COMP4211,3 Credits,B034262-01
-Ecole Polytechnique Federale de Lausanne,Switzerland,Parallel and high performance computing,MATH-454,Parallel Programming,COMP5112,3 Credits,B015538-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,Software Security,CS412,Computer Science Track Course,COMPS&N,3 Credits,B034265-02
-Ecole Polytechnique Federale de Lausanne,Switzerland,TCP/IP networking,COM407,Computer Networks,COMP5621,3 Credits,B033264-01
-Ecole Polytechnique Federale de Lausanne through the Global Virtual Exchange Program,Switzerland,Biological Modeling of Neural Networks,BIO-465,Computer Science Track Course,COMPA&T,4 Credits,B035825-03
-Ecole Polytechnique Federale de Lausanne through the Global Virtual Exchange Program,Switzerland,Biological Modeling of Neural Networks,BIO-465,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,4 Credits,B035825-04
-Fudan University,China,Introduction to AI - Probabilistic Reasoning and Decision Making (2 credits),#,Computer Science Track Course,COMPA&T,2 Credits,B034993-02
-Fudan University through virtual study,China,Introduction to AI – Probabilistic Reasoning and Decision Making (3 credits),#,Computer Science Track Course,COMPA&T,3 Credits,B037477-02
-Fudan University through virtual study,China,Introduction to Artificial Intelligence-Probabilistic Reasoning and Decision Making (2 credits),ECON170026,Computer Science Track Course,COMPA&T,2 Credits,B036624-01
-Hamburg University of Applied Sciences,Germany,Databases,#,Database Management Systems,COMP3311,3 Credits,B003980-02
-Hamburg University of Applied Sciences,Germany,Operating Systems,#,Operating Systems,COMP3511,3 Credits,B004045-02
-Hanyang University,"Korea, Republic of",AI and Finance,ISS1142,COMP 2000 LEVEL Course,COMP2000LEVEL,0 Credit,B035873-01
-Hanyang University through virtual study,"Korea, Republic of",AI and Finance,ISS1142,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3 Credits,B035955-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Applied Computing,CCN2041,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B020012-08
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Networking,CCN2238,Computer Communication Networks I,COMP4621,3 Credits,B002222-03
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Networking,SEHH2238,Computer Communication Networks I,COMP4621,3 Credits,B035175-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Organisation,SEHH2264,Computer Organization,COMP2611,4 Credits,B035183-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Organization,CCN2264,Computer Organization,COMP2611,4 Credits,B002215-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Systems Principles,CCN3133,Computer Science Track Course,COMPS&N,3 Credits,B020013-05
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Systems Principles,SEHH3133,Computer Science Track Course,COMPS&N,3 Credits,B036323-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Data Structures,SEHH2239,Computer Science Track Course,COMPA&T,3 Credits,B035144-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Data Structures,CCN2239,Computer Science Track Course,COMPA&T,3 Credits,B002218-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Database Systems,SEHH2240,Database Management Systems,COMP3311,3 Credits,B035266-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Database Systems,CCN2240,Database Management Systems,COMP3311,3 Credits,B002216-03
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Discrete Structures,SEHH2241,Computer Science Track Course,COMPA&T,3 Credits,B035146-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Discrete Structures,CCN2241,Computer Science Track Course,COMPA&T,3 Credits,B002219-03
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Engineering Graphics and Computing,CCN2269,Computer Science Track Course,COMPG&M,3 Credits,B020019-04
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Engineering Graphics and Computing,SEHH2269,Computer Science Track Course,COMPG&M,3 Credits,B035334-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Information and Communication Technology,CCN1034,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B033026-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Information and Communication Technology,SEHH1034,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B036136-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Human-Computer Interaction Methods,CCN2271,Human-Computer Interaction,COMP4461,3 Credits,B002229-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Human-Computer Interaction Methods,SEHH2271,Human-Computer Interaction,COMP4461,3 Credits,B035174-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Internet Technology,CCN1016,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B006676-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Logic Design,CCN2272,Computer Science Track Course,COMPS&N,3 Credits,B002223-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Logic Design,SEHH2272,Computer Science Track Course,COMPS&N,3 Credits,B035147-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Object Oriented Programming,SEHH2242,Introduction to Computing with Java,COMP1022P,3 Credits,B035609-01
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Operating Systems,SEHH2273,Computer Science Track Course,COMPS&N,3 Credits,B035182-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Software Engineering,SEHH3143,Computer Science Track Course,COMPS&D,3 Credits,B036355-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Visual Interface and Interaction Design and Development,SEHH2279,Human-Computer Interaction,COMP4461,3 Credits,B036441-02
-"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Internet Technology,SEHH1016,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B034989-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Advanced Network Routing and Switching,ITP4937,Computer Science Track Course,COMPS&N,3 Credits,B036785-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China","Artificial Intelligence, Big Data and Cyber Security",EEE4460,Computer Science Track Course,COMPA&T,3 Credits,B037047-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China","Artificial Intelligence, Big Data and Cyber Security",EEE4460,Computer Science Track Course,COMPA&T,3 Credits,B036319-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Augmented And Virtual Reality Engineering,EEE3454,Computer Science Track Course,COMPG&M,3 Credits,B036797-03
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Computer Programming for Engineering Applications,EEE3801,Introduction to Computing with Java,COMP1022P,3 Credits,B035547-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Connecting WAN,ITP4938,Computer Science Track Course,COMPS&N,3 Credits,B036783-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Science and Machine Learning,ITP4867,Machine Learning,COMP4211,3 Credits,B035561-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Visualization,ITP4864,Data Visualization,COMP4462,3 Credits,B035563-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Warehousing and Data Mining,ITP4868,Data Mining,COMP4331,3 Credits,B035562-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Database Principles,ITP4903,Database Management Systems,COMP3311,3 Credits,B002283-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Discrete Mathematics and Statistics,ITP3902,Computer Science Track Course,COMPA&T,3 Credits,B033020-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Information Technology Essentials - Applied Science,ITE3004,1000-level Course in Computer Science and Engineering,COMP1000LEVEL,3 Credits,B002914-04
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Information Technology Essentials - Technical,ITE3002,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B002271-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Introduction to Networks,ITE3113,Computer Communication Networks I,COMP4621,3 Credits,B036784-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Introduction to Programming,ITE3101,Introduction to Computing with Java,COMP1022P,3 Credits,B002272-03
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",IP Routing Implementation,ITP4939,Computer Science Track Course,COMPS&N,3 Credits,B036786-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Mobile Platforms and Devices,EEE4209,Mobile Application Development,COMP4521,3 Credits,B036151-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Mobile Platforms and Devices,EIE4225,Mobile Application Development,COMP4521,3 Credits,B033233-01
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Network Fundamentals,ITE3102,Computer Communication Networks I,COMP4621,3 Credits,B002273-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Network Security (eqv code: ITP4304),ITP4314,Computer and Communication Security,COMP4631,3 Credits,B002277-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object Oriented Programming,ITP4905,Introduction to Computing with Java,COMP1022P,3 Credits,B002284-03
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object Oriented Technology,ITP4909,Computer Science Track Course,COMPS&D,3 Credits,B037471-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object-oriented and Mobile Device Programming,EEE3457,Mobile Application Development,COMP4521,3 Credits,B036314-02
-Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Operating Systems Fundamentals,ITP3901,Computer Science Track Course,COMPS&N,3 Credits,B033021-01
-Institut Supérieur d'Électronique de Paris,France,Advanced Web Technologies,II3506,Internet Computing,COMP4021,3 Credits,B006105-04
-Institut Supérieur d'Électronique de Paris,France,Computer Microsystems,IE2410,Operating Systems,COMP3511,3 Credits,B033585-02
-Institut Supérieur d'Électronique de Paris,France,Data Analysis,II2313/II2413,Computer Science Track Course,COMPA&T,3 Credits,B034388-04
-Institut Supérieur d'Électronique de Paris,France,Databases and Big Data,II2314/II2414,Database Management Systems,COMP3311,3 Credits,B034387-01
-Institut Supérieur d'Électronique de Paris,France,Introduction to Artificial Intelligence,ID2401,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B034390-01
-Institut Supérieur d'Électronique de Paris,France,Machine Learning,IG3510,Machine Learning,COMP4211,3 Credits,B034542-01
-Institut Supérieur d'Électronique de Paris,France,Mobile Development / Services for mobility,II3510,Mobile Application Development,COMP4521,3 Credits,B006102-04
-Korea Advanced Institute of Science and Technology,"Korea, Republic of",Operating Systems and Lab,CS330,Operating Systems,COMP3511,3 Credits,B037355-01
-Korea University,"Korea, Republic of",Artificial Intelligence,COSE361,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B037409-02
-Korea University,"Korea, Republic of",Computer Architecture,COSE222,Computer Organization,COMP2611,4 Credits,B033155-01
-Korea University,"Korea, Republic of",Databases,COSE371,Database Management Systems,COMP3311,3 Credits,B033287-01
-Korea University,"Korea, Republic of",Discrete Mathematics,COSE211,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B034381-01
-Korea University,"Korea, Republic of",Machine Learning,COSE362,Machine Learning,COMP4211,3 Credits,B035004-01
-Korea University,"Korea, Republic of",Software Engineering,COSE352,Software Engineering,COMP3111,4 Credits,B033156-01
-Korea University,"Korea, Republic of",Theory of Computation,COSE215,Theory of Computation,COMP3721,3 Credits,B037590-01
-Lancaster University,United Kingdom,Databases,SSC201,Database Management Systems,COMP3311,3 Credits,B037115-01
-Linnaeus University,Sweden,Discrete Mathematics,1MA462,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B008417-02
-Lund University,Sweden,Artificial Intelligence,EDAP01,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B036381-01
-Lund University,Sweden,Computer Vision,FMAN95,Computer Science Track Course,COMPG&M,3 Credits,B036379-02
-Lund University,Sweden,Machine Learning,FMAN45,Machine Learning,COMP4211,3 Credits,B036380-01
-Metropolia University of Applied Sciences,Finland,Basics of Virtualization and Cloud Computing,TX00DH60,Computer Science Track Course,COMPS&D,3 Credits,B032970-02
-Metropolia University of Applied Sciences,Finland,Cybersecurity Operations,TX00DP60,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3 Credits,B032966-01
-Metropolia University of Applied Sciences,Finland,Internet of Things,TX00CI63,Computer Science Track Course,COMPS&N,3 Credits,B030195-03
-Michigan State University,United States,Web Application Development,CSE477,Internet Computing,COMP4021,3 Credits,B034841-01
-Nanyang Technological University,Singapore,Algorithms for the Real World,MH3400,Design and Analysis of Algorithms,COMP3711,3 Credits,B035365-01
-Nanyang Technological University,Singapore,Artificial Intelligence and Data Mining,EE4483,Computer Science Track Course,COMPA&T,3 Credits,B033337-01
-National Taiwan University,Taiwan,Advanced Artificial Intelligence (高等人工智慧),CSIE7007,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B035957-02
-National Taiwan University,Taiwan,Advanced Interactive Technologies,CSIE7645,Computer Science Track Course,COMPG&M,3 Credits,B035101-02
-National Taiwan University,Taiwan,Algorithms,EE4033,Design and Analysis of Algorithms,COMP3711,3 Credits,B036139-01
-National Taiwan University,Taiwan,Augmented Reality Special Project,CSIE5011,Computer Science Track Course,COMPG&M,3 Credits,B035641-01
-National Taiwan University,Taiwan,Computer Architecture,CSIE3340,Computer Organization,COMP2611,4 Credits,B036141-01
-National Taiwan University,Taiwan,Computer Programming,LIS2009,Introduction to Computing with Java,COMP1022P,3 Credits,B035932-01
-National Taiwan University,Taiwan,Computer Science and Information Technology (1) 前瞻資訊科技一,CSIE3015,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3 Credits,B036093-01
-National Taiwan University,Taiwan,Computer System Laboratory,CSIE3311,Computer Science Track Course,COMPG&M,2 Credits,B036144-02
-National Taiwan University,Taiwan,Cryptography and Network Security,CSIE7190,Computer and Communication Security,COMP4631,3 Credits,B034742-01
-National Taiwan University,Taiwan,Data Structures and Algorithms,CSIE1212,Programming with C++,COMP2011,4 Credits,B035803-02
-National Taiwan University,Taiwan,Database Management System – from SQL to NoSQL,EE5178,Database Management Systems,COMP3311,3 Credits,B036138-01
-National Taiwan University,Taiwan,Game Programming,CSIE5121,Game Programming,COMP4451,3 Credits,B035740-01
-National Taiwan University,Taiwan,Introduction to Digital Speech Processing 數位語音處理概論,EE4037,Computer Science Track Course,COMPA&T,3 Credits,B036134-02
-National Taiwan University,Taiwan,Machine Learning,EE5184,Machine Learning,COMP4211,3 Credits,B036140-01
-National Taiwan University,Taiwan,Machine Learning Foundations,CSIE5432,Machine Learning,COMP4211,3 Credits,B036132-01
-National Taiwan University,Taiwan,Practicum of Attacking and Defense of Network Security 網路攻防實習,EE5188,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3 Credits,B034337-01
-National Taiwan University,Taiwan,Programming Design,IM1003,Programming with C++,COMP2011,4 Credits,B035771-01
-National Taiwan University,Taiwan,Software Engineering Design,CSIE5734,Software Engineering,COMP3111,4 Credits,B036370-01
-National Tsing Hua University,Taiwan,Programming Design,PME3001,Introduction to Computer Science,COMP1021,3 Credits,B033515-01
-National Tsing Hua University through virtual study,Taiwan,Analysis and Synthesis of Digital Audio Signals,#,Computer Science Track Course,COMPG&M,0 Credit,B035916-02
-National Tsing Hua University through virtual study,Taiwan,Introduction to Data Structure,#,Computer Science Track Course,COMPA&T,0 Credit,B035918-02
-National University of Singapore,Singapore,3D Computer Vision,CS4277,Computer Science Track Course,COMPA&T,3 Credits,B035505-02
-National University of Singapore,Singapore,AI Planning and Decision Making,CS4246,Computer Science Track Course,COMPA&T,3 Credits,B005597-04
-National University of Singapore,Singapore,Computer Organization,CS2100,Computer Organization,COMP2611,4 Credits,B003587-02
-National University of Singapore,Singapore,Introduction to Machine Learning and Applications,IT3011,Machine Learning,COMP4211,3 Credits,B035324-01
-National University of Singapore,Singapore,Parallel and Concurrent Programming,CS3211,Computer Science Track Course,COMPS&D,3 Credits,B035688-02
-National University of Singapore,Singapore,Programming Language Concepts,CS2104,Principles of Programming Languages,COMP3031,3 Credits,B005593-02
-National University of Singapore,Singapore,Software Engineering And Object-Oriented Programming,CS2113,Software Engineering,COMP3111,4 Credits,B037032-01
-Newcastle University,United Kingdom,Big Data Analytics,CSC8101,Computer Science Track Course,COMPS&D,3 Credits,B037518-02
-Newcastle University,United Kingdom,Cryptography,CSC3621,Computer and Communication Security,COMP4631,3 Credits,B032852-01
-Newcastle University,United Kingdom,Database Technology,CSC2024,Database Management Systems,COMP3311,3 Credits,B035477-01
-Newcastle University,United Kingdom,Graphics for Games,CSC3223,Computer Science Track Course,COMPG&M,3 Credits,B002017-03
-Newcastle University,United Kingdom,Programming for Games,CSC3221,Computer Science Track Course,COMPS&D,3 Credits,B002016-03
-Newcastle University,United Kingdom,Understanding Concurrency,CSC3324,Computer Science Track Course,COMPS&D,3 Credits,B033699-01
-Northwestern University,United States,AI Programming,CS325,Computer Science Track Course,COMPS&D,2 Credits,B034506-02
-Northwestern University,United States,Introduction to Database Systems,COMPSCI339,Database Management Systems,COMP3311,3 Credits,B037564-01
-Northwestern University,United States,Machine Learning,COMPSCI349-X,Machine Learning,COMP4211,3 Credits,B034842-01
-Northwestern University,United States,Operating Systems,COMPSCI343,Operating Systems,COMP3511,3 Credits,B034317-01
-NYU Shanghai,China,Introduction to Computer Programming,CSCI-SHU11,Introduction to Computer Science,COMP1021,3 Credits,B034906-01
-Peking University,China,Intro. to Natural Language Processing 自然语言处理导论,04831780,Introduction to Natural Language Processing,COMP4221,3 Credits,B034679-01
-Peking University,China,"Theories, models & methods of computational Vision 计算视觉理论、模型与方法",04802019,Computer Vision,COMP5421,3 Credits,B034680-01
-Pomona College,United States,Introduction to Computer Science in Python,CSCI051P,Introduction to Computer Science,COMP1021,3 Credits,B035338-01
-Purdue University,United States,Data Mining,MGMT47300,Data Mining,COMP4331,3 Credits,B034014-02
-Purdue University,United States,Introduction to Artificial Intelligence,CS47100,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B034885-01
-Ramon Llull University,Spain,Artificial Intelligence and Machine Learning,B11030,Machine Learning,COMP4211,3 Credits,B030740-02
-Royal Institute of Technology,Sweden,Algorithms and Complexity,DD2352,Design and Analysis of Algorithms,COMP3711,3 Credits,B037158-01
-Royal Institute of Technology,Sweden,Applied Cryptography,DD2520,Computer Science Track Course,COMPS&N,3 Credits,B037664-04
-Royal Institute of Technology,Sweden,Applied Cryptography,DD2520,Computer and Communication Security,COMP4631,3 Credits,B037396-01
-Royal Institute of Technology,Sweden,Artificial Neural Networks and Deep Architectures,DD2437,COMPA&T - Computer Science Track Course,COMPA&T,3 Credits,B034876-01
-Royal Institute of Technology,Sweden,Automated Software Testing and DevOps,DD2482,Computer Science Track Course,COMPS&D,3 Credits,B034408-03
-Royal Institute of Technology,Sweden,Automated Software Testing and DevOps,DD2482,Computer Science Track Course,COMPS&D,0 Credit,B034408-01
-Royal Institute of Technology,Sweden,Computer security,DD239U,Principles of Cybersecurity,COMP3632,3 Credits,B037395-02
-Royal Institute of Technology,Sweden,"Data Mining, Basic Course",ID2211,Computer Science Track Course,COMPS&D,3 Credits,B036997-03
-Royal Institute of Technology,Sweden,Developing Mobile Applications,ID2216,Mobile Application Development,COMP4521,3 Credits,B003825-04
-Royal Institute of Technology,Sweden,Digital Image Processing and Applications,AG2413,Image Processing,COMP4421,3 Credits,B037533-01
-Royal Institute of Technology,Sweden,Evaluation Methods in Human-Computer Interaction,DH2408,Human-Computer Interaction,COMP4461,3 Credits,B033285-01
-Royal Institute of Technology,Sweden,Foundations of Cryptography,DD2448,Computer Science Track Course,COMPS&N,3 Credits,B037020-02
-Royal Institute of Technology,Sweden,Foundations of Machine Learning,DD1420,Machine Learning,COMP4211,3 Credits,B036975-01
-Royal Institute of Technology,Sweden,Information Visualization,DH2321,Data Visualization,COMP4462,3 Credits,B037532-01
-Royal Institute of Technology,Sweden,Internetworking,IK1552,Computer Communication Networks I,COMP4621,3 Credits,B033184-01
-Royal Institute of Technology,Sweden,Introduction to Computer Security,IV1013,Computer and Communication Security,COMP4631,3 Credits,B036976-01
-Royal Institute of Technology,Sweden,Introduction to High Performance Computing,DD2358,Parallel Programming,COMP5112,3 Credits,B036977-01
-Royal Institute of Technology,Sweden,"Introduction to Visualization, Computer Graphics and Image/Video Processing",DD2258,Computer Science Track Course,COMPG&M,3 Credits,B036978-03
-Royal Institute of Technology,Sweden,Language-Based Security,DD2525,Computer Science Track Course,COMPS&N,3 Credits,B037665-04
-Royal Institute of Technology,Sweden,Large-Scale Software Development,DD2487,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3 Credits,B035376-01
-Royal Institute of Technology,Sweden,Machine Learning,DD2421,Machine Learning,COMP4211,3 Credits,B020263-03
-Royal Institute of Technology,Sweden,Methods in High Performance Computing,DD2356,Computer Science Track Course,COMPS&D,3 Credits,B033186-02
-Royal Institute of Technology,Sweden,Multimodal Interaction and Interfaces,DT2140,Computer Science Track Course,COMPG&M,3 Credits,B033286-01
-Royal Institute of Technology,Sweden,Parallel Computations for Large- Scale Problems,SF2568,Parallel Programming,COMP5112,3 Credits,B033185-01
-Royal Institute of Technology,Sweden,Principles of Programming Languages,DD2481,Principles of Programming Languages,COMP3031,3 Credits,B034407-01
-Royal Institute of Technology,Sweden,Search Engines and Information Retrieval Systems,DD2477,Search Engines for Web and Enterprise Data,COMP4321,3 Credits,B037534-01
-Royal Institute of Technology,Sweden,Software Engineering Fundamentals,DD2480,Software Engineering,COMP3111,4 Credits,B037170-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Big Data Applications and Analytics,CCIT4079,Computer Science Track Course,COMPA&T,3 Credits,B036364-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Computer Systems and Network Protocol Essentials (eqv code: CC88-646),CCIT4053,Computer Science Track Course,COMPS&N,3 Credits,B002258-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data and Computer Communication,CCIM4034,Computer Communication Networks I,COMP4621,3 Credits,B035439-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data Mining,CCIT4075,Data Mining,COMP4331,3 Credits,B031795-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data Visualization,CCIT4092,Data Visualization,COMP4462,3 Credits,B036362-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Ethical Hacking (eqv code: CC88-624),CCIT4037,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3 Credits,B002261-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Information Security (eqv code: CC88-299),CCIT4014,Computer and Communication Security,COMP4631,3 Credits,B000125-03
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Information Technology Fundamentals,CCIT4085,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B036222-04
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Internet Programming (eqv code: CC88-760),CCIT4058,Internet Computing,COMP4021,3 Credits,B005333-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Computer Programming (eqv code: CC88-321),CCIT4020,Introduction to Computing with Java,COMP1022P,3 Credits,B002263-03
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Data Structures and Algorithms,CCIT4016,Computer Science Track Course,COMPA&T,3 Credits,B006686-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Database Systems (eqv code: CC88-620),CCIT4033,Database Management Systems,COMP3311,3 Credits,B002264-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Information Security,CCIT4014,Computer and Communication Security,COMP4631,3 Credits,B036644-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Multimedia (eqv code: CC88-246/CD85-215-78),CCIT4009,Exploring Multimedia and Internet Computing,COMP1001,3 Credits,B000134-04
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Local Area Networking,CCIT4034,Computer Science Track Course,COMPS&N,3 Credits,B033049-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Machine Learning,CCIT4093,Machine Learning,COMP4211,3 Credits,B036363-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Mathematics for Computing (eqv code: CC88-322),CCIT4021,Computer Science Track Course,COMPA&T,3 Credits,B005339-04
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Mobile Application Development (eqv code: CC88-761),CCIT4059,Mobile Application Development,COMP4521,3 Credits,B005341-04
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Network Security (eqv code: CC88-627),CCIT4040,Computer and Communication Security,COMP4631,3 Credits,B002268-02
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Object-Oriented Programming,CCIT4023,Introduction to Computing with Java,COMP1022P,3 Credits,B035577-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Programming for Data Science,CCIT4088,Introduction to Computer Science,COMP1021,3 Credits,B036361-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Project on Knowledge Products Development,CCIT4080A,Computer Science Track Course,COMPS&D,3 Credits,B033113-01
-"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Software Engineering,CCIM4054,Computer Science Track Course,COMPS&D,3 Credits,B013442-04
-Stanford University,United States,Client-Side Internet Technologies,CS193C,Internet Computing,COMP4021,3 Credits,B001628-02
-Stanford University,United States,Design and Analysis of Algorithms,CS161,Design and Analysis of Algorithms,COMP3711,3 Credits,B032945-01
-Stanford University,United States,Programming Methodologies in Python,CS106AP,Introduction to Computer Science,COMP1021,3 Credits,B033481-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Computer Networks,252-0064-00L,Computer Communication Networks I,COMP4621,3 Credits,B034974-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Data Modeling and Databases,252-0063-00L,Database Management Systems,COMP3311,3 Credits,B034975-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Human Computer Interaction,2523110-00L,Human-Computer Interaction,COMP4461,3 Credits,B032930-02
-Swiss Federal Institute of Technology Zurich,Switzerland,Machine Perception,263-3710-00L,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3 Credits,B035581-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Program Analysis for System Security and Reliability,263-2925-00L,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3 Credits,B035582-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Research in Computer Science,260-0600-00X,Independent Work,COMP4971,3 Credits,B033797-01
-Swiss Federal Institute of Technology Zurich,Switzerland,Research in Computer Science,260-0600-00X,Independent Work,COMP4971,2 Credits,B033797-02
-Swiss Federal Institute of Technology Zurich,Switzerland,Rigorous Software Engineering,252-0216-00X,Software Engineering,COMP3111,4 Credits,B035988-01
-Taylor's University,Malaysia,Computer Architecture and Organisation,ITS62704,Computer Organization,COMP2611,4 Credits,B036672-01
-Taylor's University,Malaysia,Database Systems,ITS62904,Database Management Systems,COMP3311,3 Credits,B036673-01
-Taylor's University,Malaysia,Object Oriented Programming,ITS63304,Introduction to Computing with Java,COMP1022P,3 Credits,B036671-01
-Technical University of Denmark,Denmark,Algorithms and Data Structures 1,02105,Design and Analysis of Algorithms,COMP3711,3 Credits,B037703-01
-Technical University of Denmark,Denmark,Bayesian Machine Learning,02477,Introduction to Bayesian Networks,COMP5213,3 Credits,B037705-01
-Technical University of Denmark,Denmark,Computer Security Incident Response,02192,Principles of Cybersecurity,COMP3632,3 Credits,B034134-01
-Technical University of Denmark,Denmark,Cryptology 1,01410,Computer and Communication Security,COMP4631,3 Credits,B037711-02
-Technical University of Denmark,Denmark,Network Security,02233,Principles of Cybersecurity,COMP3632,3 Credits,B003568-03
-Technical University of Denmark,Denmark,Operating Systems,02159,Operating Systems,COMP3511,3 Credits,B006122-02
-Technical University of Denmark,Denmark,Personal Data Interaction for Mobile and Wearables,02808,Mobile Application Development,COMP4521,3 Credits,B034373-02
-Technical University of Denmark,Denmark,Programming in C++,02393,Programming with C++,COMP2011,4 Credits,B004445-05
-Technical University of Denmark,Denmark,Signals and Data,02462,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3 Credits,B037668-02
-Technical University of Denmark,Denmark,System Integration,02291,Software Engineering,COMP3111,4 Credits,B012988-02
-Technische Universität Berlin,Germany,Programming in Java,#,Introduction to Computing with Java,COMP1022P,3 Credits,B034354-01
-Technische Universität Berlin through virtual study,Germany,Programming in Java,#,Introduction to Computing with Java,COMP1022P,3 Credits,B036249-02
-Technische Universität München,Germany,Database System Concepts for Non-Computer Scientists,IN4714,Database Management Systems,COMP3311,3 Credits,B033189-01
-Technische Universität München,Germany,Information and Knowledge Management,IN2105,Computer Science Track Course,COMPS&D,3 Credits,B033188-02
-Technische Universität München,Germany,Mining Massive Datasets,IN2323,Big Data Mining and Management,COMP4332,3 Credits,B008256-02
-Technische Universität München,Germany,Network Security,IN2101,Computer and Communication Security,COMP4631,3 Credits,B033187-01
-Technische Universität München,Germany,Statistical Learning,MA4802,Computer Science Track Course,COMPA&T,3 Credits,B035311-03
-Texas A&M University,United States,Artificial Intelligence: HW Technology & Applications,ECEN489,Machine Learning,COMP4211,3 Credits,B035467-01
-The Georgia Institute of Technology,United States,Compilers & Interpreters,CS4240,Computer Science Track Course,COMPS&N,3 Credits,B008365-02
-The Georgia Institute of Technology,United States,Computer Organization and Programming,CS2110,Computer Organization,COMP2611,4 Credits,B036468-01
-The Georgia Institute of Technology,United States,Data Structures and Algorithms,CS1332,Design and Analysis of Algorithms,COMP3711,3 Credits,B036598-01
-The Georgia Institute of Technology,United States,Design and Analysis of Algorithms,CS3510,Design and Analysis of Algorithms,COMP3711,3 Credits,B006820-02
-The Georgia Institute of Technology,United States,Intro to Computing,CS1301,Introduction to Computer Science,COMP1021,3 Credits,B036883-01
-The Georgia Institute of Technology,United States,Intro to Info Security,CS-4235/6035,Computer and Communication Security,COMP4631,3 Credits,B033263-01
-The Georgia Institute of Technology,United States,Introduction to Computer Vision,CS4476,Computer Vision,COMP5421,3 Credits,B034391-01
-The Georgia Institute of Technology,United States,Introduction to Discrete Mathematics for Computer Science,CS2050,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B036467-01
-The Georgia Institute of Technology,United States,Introduction to Object-Oriented Programming,CS1331,Java Programming,COMP3021,3 Credits,B001987-05
-The University of Birmingham,United Kingdom,Artificial Intelligence 1,0634238,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B036803-01
-The University of Birmingham,United Kingdom,Msc Introduction to Artificial Intelligence,0627112,Computer Science Track Course,COMPA&T,3 Credits,B035827-02
-The University of British Columbia,Canada,Applied Machine Learning,CPSC330,Machine Learning,COMP4211,3 Credits,B033830-01
-The University of British Columbia,Canada,Computer Graphics,CPSC314,Computer Graphics,COMP4411,3 Credits,B005831-02
-The University of British Columbia,Canada,Internet Computing,CPSC317,Computer Communication Networks I,COMP4621,3 Credits,B005819-03
-The University of British Columbia,Canada,Topics in Computer Science - Information Visualization,CPSC436V,Data Visualization,COMP4462,3 Credits,B033467-01
-The University of Melbourne,Australia,Foundations of Computing,COMP10001,Introduction to Computer Science,COMP1021,3 Credits,B033392-01
-The University of New South Wales,Australia,Computing for Engineers,ENGG1811,Introduction to Computer Science,COMP1021,3 Credits,B036597-01
-The University of New South Wales,Australia,Data Structures and Algorithms,COMP2521,Design and Analysis of Algorithms,COMP3711,3 Credits,B033528-02
-The University of New South Wales,Australia,Database Systems,COMP3311,Database Management Systems,COMP3311,3 Credits,B034212-01
-The University of New South Wales,Australia,Extended Algorithms and Programming Techniques,COMP3821,Design and Analysis of Algorithms,COMP3711,3 Credits,B034237-01
-The University of New South Wales,Australia,Human Computer Interaction,COMP3511,Human-Computer Interaction,COMP4461,3 Credits,B002192-02
-The University of New South Wales,Australia,Neural Networks and Deep Learning,COMP9444,Computer Science Track Course,COMPA&T,3 Credits,B034653-02
-The University of New South Wales,Australia,Theory of Computation,COMP4141,Theory of Computation,COMP3721,3 Credits,B034213-01
-The University of Texas at Austin,United States,Algorithms and Complexity,CS331,Design and Analysis of Algorithms,COMP3711,3 Credits,B037449-01
-The University of Texas at Austin,United States,Algorithms and Complexity (Honors),CS331H,Honors Design and Analysis of Algorithms,COMP3711H,4 Credits,B037489-02
-The University of Texas at Austin,United States,Data Science Principles,EE461P,Data Mining,COMP4331,3 Credits,B035167-01
-The University of Texas at Austin,United States,Database Management,MIS325,Database Management Systems,COMP3311,3 Credits,B010504-02
-The University of Texas at Austin,United States,Digital Image and Video Processing,EE371R,Image Processing,COMP4421,3 Credits,B034189-01
-The University of Texas at Austin,United States,Introduction to Data Mining,CS363,Data Mining,COMP4331,3 Credits,B036229-01
-The University of Texas at Austin,United States,Introduction to Data Mining: Honors,CS378H,Data Mining,COMP4331,3 Credits,B032931-02
-The University of Texas at Austin,United States,Machine Learning Toolbox for Text Analysis,LIN373,Computer Science Track Course,COMPA&T,3 Credits,B032933-02
-The University of Texas at Austin,United States,Operating Systems,EE461S,Operating Systems,COMP3511,3 Credits,B037487-01
-The University of Texas at Austin,United States,Principles of Computer Systems,CS439,Operating Systems,COMP3511,3 Credits,B037450-01
-The University of Texas at Austin,United States,Programming for Performance,CS377P,Computer Science Track Course,COMPS&D,3 Credits,B037451-02
-The University of Texas at Austin,United States,Programming Languages,CS345,Principles of Programming Languages,COMP3031,3 Credits,B037485-01
-The University of Texas at Austin,United States,Theory of Computation,CS353,Theory of Computation,COMP3721,3 Credits,B034188-01
-The University of Utah,United States,Algorithms - Quantitative Intensive,CS4150,Computer Science Track Course,COMPA&T,3 Credits,B035928-02
-The University of Utah,United States,Traditional Game Development,EAE3710,Computer Science Track Course,COMPG&M,3 Credits,B035926-01
-Tokyo Institute of Technology,Japan,Internet Infrastructure,TST441,Computer Science Track Course,COMPS&N,2 Credits,B033930-02
-Université de Paris,France,Data Analysis,UE5.1,Exploring and Visualizing Data,COMP1942,3 Credits,B035148-01
-Université Grenoble Alpes,France,Database Foundation,#,Database Management Systems,COMP3311,3 Credits,B034508-01
-University of Bristol,United Kingdom,Advanced Computer Architecture,COMSM0109,Design and Analysis of Computer Architectures,COMP4611,3 Credits,B032916-02
-University of Bristol,United Kingdom,Image Processing and Computer Vision,COMS30121,Image Processing,COMP4421,3 Credits,B002907-02
-University of Bristol,United Kingdom,Machine Learning,COMS30007,Machine Learning,COMP4211,3 Credits,B032915-01
-"University of California, Berkeley",United States,(Statistical) Natural Language Processing,CS288,Natural Language Processing,COMP5221,3 Credits,B033901-01
-"University of California, Berkeley",United States,Applications of Parallel Computers,CS267/E233,Parallel Programming,COMP5112,3 Credits,B033898-01
-"University of California, Berkeley",United States,Combinatorial Algorithms and Data Structures,CS270,Introduction to Combinatorial Optimization,COMP5712,3 Credits,B033899-01
-"University of California, Berkeley",United States,Computability and Complexity,CS172,Theory of Computation,COMP3721,3 Credits,B033893-01
-"University of California, Berkeley",United States,Computer security,CS161,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3 Credits,B034444-01
-"University of California, Berkeley",United States,Computer Vision,CS280,Computer Vision,COMP5421,3 Credits,B033900-01
-"University of California, Berkeley",United States,Digital Image Processing,EECS225B,Image Processing,COMP4421,3 Credits,B034093-01
-"University of California, Berkeley",United States,Foundations of Computer Graphics,CS184/284A,Computer Graphics,COMP4411,3 Credits,B033895-01
-"University of California, Berkeley",United States,Image Manipulation and Computational Photography,CS194-26,Computer Science Track Course,COMPG&M,3 Credits,B033897-02
-"University of California, Berkeley",United States,Introduction to Database Systems,COMPSCIW186,Database Management Systems,COMP3311,3 Credits,B034190-01
-"University of California, Berkeley",United States,"Qubits, Quantum Mechanics and Computers",CHEM/CS/PHYS191,Computer Science Track Course,COMPA&T,3 Credits,B033896-02
-"University of California, Berkeley",United States,The Structure and Interpretation of Computer Programs,COMPSCI61A,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,4 Credits,B033417-01
-"University of California, Berkeley through virtual study",United States,Data Structure and Programming Methodology,COMPSCI61BL,Object-Oriented Programming and Data Structures,COMP2012,4 Credits,B036238-01
-"University of California, Berkeley through virtual study",United States,Introduction to Artificial Intelligence,COMPSCI188,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B036161-01
-"University of California, Berkeley through virtual study",United States,Operating Systems and System Programming,COMPSCI162,Operating Systems,COMP3511,3 Credits,B035961-01
-"University of California, Berkeley through virtual study",United States,Software Engineering,COMPSCIW169A,Software Engineering,COMP3111,4 Credits,B036162-01
-"University of California, Davis",United States,Introduction to Data Structures,ENGCS032B,Introduction to Computer Science,COMP1021,3 Credits,B034948-01
-"University of California, Irvine",United States,Intro to Software Engineering,INFORMATICS43,Software Engineering,COMP3111,4 Credits,B032592-04
-"University of California, Irvine",United States,Principles of Operating Systems,COMPSCI143A,Operating Systems,COMP3511,3 Credits,B035673-01
-"University of California, Los Angeles",United States,Programming Languages,COMSCI131/CS131,Principles of Programming Languages,COMP3031,3 Credits,B034305-01
-"University of California, Los Angeles through virtual study",United States,Operating System Principles,COMSCI111,Operating Systems,COMP3511,3 Credits,B036921-01
-"University of California, San Diego",United States,Data Science in Practice,COGS108,Data Mining,COMP4331,3 Credits,B035018-01
-"University of California, San Diego",United States,Design and Analysis of Algorithms,CSE101,Design and Analysis of Algorithms,COMP3711,3 Credits,B034586-01
-"University of California, San Diego",United States,Introduction to Computer Science and Object-Oriented Programming: Java,CSE11,Introduction to Computing with Java,COMP1022P,3 Credits,B001809-04
-"University of California, San Diego",United States,Software Engineering,CSE110,Software Engineering,COMP3111,4 Credits,B001812-02
-University of Exeter,United Kingdom,Computability and Complexity,ECM3422,Theory of Computation,COMP3721,3 Credits,B036437-01
-University of Exeter,United Kingdom,Computer Graphics,ECM3423,Computer Graphics,COMP4411,3 Credits,B036453-02
-University of Exeter,United Kingdom,Database theory and design,ECM2419,Database Management Systems,COMP3311,3 Credits,B010180-02
-University of Exeter,United Kingdom,Learning from Data,ECM3420,Machine Learning,COMP4211,3 Credits,B015075-03
-University of Exeter,United Kingdom,Nature Inspired Computation,ECM3412,Computer Science Track Course,COMPA&T,3 Credits,B036436-03
-University of Exeter,United Kingdom,Nature Inspired Computation,ECM3412,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3 Credits,B036436-04
-University of Exeter,United Kingdom,Software Development,ECM2414,Computer Science Track Course,COMPS&D,3 Credits,B036454-04
-University of Florida,United States,Human Computer Interaction,CEN4721,Human-Computer Interaction,COMP4461,3 Credits,B037024-01
-University of Florida,United States,Information and Database Systems I,CIS4301,Database Management Systems,COMP3311,3 Credits,B037025-01
-University of Florida,United States,Natural Language Processing with Python,CIS4930,Computer Science Track Course,COMPA&T,3 Credits,B037026-02
-University of Florida,United States,Operating Systems,COP4600,Operating Systems,COMP3511,3 Credits,B037023-01
-University of Florida,United States,Programming Language Concepts,COP4020,Computer Science Track Course,COMPS&D,3 Credits,B037027-02
-University of Glasgow,United Kingdom,"Big Data: Systems, Programming, and Management (H)",COMPSCI4064,Cloud Computing and Big Data Systems,COMP4651,3 Credits,B033440-01
-University of Glasgow,United Kingdom,Information Retrieval (H),COMPSCI4069,Search Engines for Web and Enterprise Data,COMP4321,3 Credits,B033061-01
-University of Illinois at Urbana - Champaign,United States,Artificial Intelligence,CS440,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B003074-02
-University of Illinois at Urbana - Champaign,United States,Computer Vision,CS543,Computer Vision,COMP5421,3 Credits,B037173-01
-University of Illinois at Urbana - Champaign,United States,Software Engineering I,CS427,Software Engineering,COMP3111,4 Credits,B002121-02
-University of Massachusetts Amherst,United States,Algorithms for Data Science,COMPSCI514,Data Mining,COMP4331,3 Credits,B033986-01
-University of Massachusetts Amherst,United States,Artificial Intelligence,COMPSCI383,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B033985-01
-University of Massachusetts Amherst,United States,Introduction to Computer Graphics,COMPSCI373,Computer Graphics,COMP4411,3 Credits,B034002-01
-University of Massachusetts Amherst,United States,Machine Learning,COMPSCI589,Machine Learning,COMP4211,3 Credits,B033987-01
-University of Massachusetts Amherst,United States,Operating Systems,COMPSCI377,Operating Systems,COMP3511,3 Credits,B033984-01
-University of Michigan,United States,Discrete Mathematics,EECS203,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B034104-01
-University of Michigan,United States,Introduction to computer organization,EECS370,Computer Organization,COMP2611,4 Credits,B034108-01
-University of Minnesota,United States,Internet Programming,CSCI4131,Internet Computing,COMP4021,3 Credits,B034972-01
-University of Minnesota,United States,Introduction to Artificial Intelligence,CSCI4511W,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B034169-01
-University of Minnesota,United States,Introduction to Operating Systems,CSCI4061,Operating Systems,COMP3511,3 Credits,B034167-01
-University of Notre Dame,United States,Computer security,CSE40567,Computer and Communication Security,COMP4631,3 Credits,B035003-01
-University of Notre Dame,United States,Database System Concepts,CSE30246,Database Management Systems,COMP3311,3 Credits,B033125-01
-University of Notre Dame,United States,Human Computer Interaction,CSE40424,Human-Computer Interaction,COMP4461,3 Credits,B033126-01
-University of Notre Dame,United States,Introduction to Artificial Intelligence,CSE40171,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B033127-01
-University of Notre Dame,United States,Operating System Principles,CSE30341,Operating Systems,COMP3511,3 Credits,B034999-01
-University of Pennsylvania,United States,Analytics & the Digital Economy,OIDD245,Exploring and Visualizing Data,COMP1942,3 Credits,B033345-01
-University of Pennsylvania,United States,Computer Operating Systems,CIS380,Operating Systems,COMP3511,3 Credits,B005799-02
-University of Pennsylvania,United States,Database & Information Systems (eqv code: CIS450),CIS450/550,Database Management Systems,COMP3311,3 Credits,B007857-03
-University of Pennsylvania,United States,Deep Learning,CIS522,Computer Science Track Course,COMPA&T,3 Credits,B034349-01
-University of Pennsylvania,United States,Embedded Software for Life-Critical CPS,CIS441,Computer Science Track Course,COMPS&N,3 Credits,B037373-02
-University of Pennsylvania,United States,Internet and Web Systems,CIS455/555,Computer Science Track Course,COMPS&D,3 Credits,B037182-02
-University of Pennsylvania,United States,Introduction to Algorithms,CIS320,Design and Analysis of Algorithms,COMP3711,3 Credits,B037183-01
-University of Pennsylvania,United States,Introduction to Computer Architecture / Intro to Comp Systems,CIS240,Computer Organization,COMP2611,4 Credits,B005798-02
-University of Pennsylvania,United States,Introduction to Computer Graphics,CIS460,Computer Graphics,COMP4411,3 Credits,B034379-01
-University of Pennsylvania,United States,Software Deisgn & Engineering,CIS350,Software Engineering,COMP3111,4 Credits,B033097-01
-University of Southampton,United Kingdom,Cloud Application Development,COMP3207,Computer Science Track Course,COMPS&D,3 Credits,B034670-02
-University of Southampton,United Kingdom,Foundations of Machine Learning,COMP3223,Machine Learning,COMP4211,3 Credits,B034672-01
-University of Southampton,United Kingdom,Real-Time Computing and Embedded Systems,COMP3215,Computer Science Track Course,COMPS&N,3 Credits,B034671-02
-University of Southern California,United States,Android App Development,ITP341,Mobile Application Development,COMP4521,3 Credits,B034684-01
-University of Southern California,United States,Compiler Development,ITP439,Computer Science Track Course,COMPS&D,4 Credits,B034450-02
-University of Southern California,United States,Introduction to Computer Systems,CSCI356,Computer Organization,COMP2611,4 Credits,B034925-01
-University of Southern California,United States,Introduction to Internet working,CSCI353,Computer Communication Networks I,COMP4621,3 Credits,B034451-01
-University of Southern California,United States,Introduction to Programming,CSCI103,Programming with C++,COMP2011,4 Credits,B033090-01
-University of Southern California,United States,Introduction to Security / Introduction to Computer and Network Security,CSCI430,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3 Credits,B003670-02
-University of Southern California,United States,Principles of Software Development,CSCI201,Computer Science Track Course,COMPS&D,3 Credits,B001521-02
-University of Southern California,United States,Programming Graphical User Interfaces,ITP368,Computer Science Track Course,COMPG&M,3 Credits,B034685-01
-University of Southern Denmark,Denmark,Android Programming,T560013101,Mobile Application Development,COMP4521,3 Credits,B037635-01
-University of Southern Denmark,Denmark,Artificial Intelligence,T510009101,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B037307-01
-University of Southern Denmark,Denmark,Data Mining and Machine Learning,DM566,Computer Science Track Course,COMPA&T,3 Credits,B037305-02
-University of Sussex,United Kingdom,Natural Language Engineering,G5119,Introduction to Natural Language Processing,COMP4221,3 Credits,B033828-01
-University of Toronto,Canada,Computer and Society,CSC300,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3 Credits,B033638-01
-University of Toronto,Canada,Computer Organization,CSC258H1,Computer Organization,COMP2611,4 Credits,B033044-01
-University of Toronto,Canada,Computers and Society,CSC300H1,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3 Credits,B033069-02
-University of Toronto,Canada,Data Structures and Analysis,CSC263H1,Design and Analysis of Algorithms,COMP3711,3 Credits,B033003-02
-University of Virginia,United States,Database Management Systems & Business Intelligence,COMM3220,Database Management Systems,COMP3311,3 Credits,B008277-02
-University of Washington,United States,Computer Programming I & II,CSE143X,Programming with C++,COMP2011,4 Credits,B033758-01
-University of Washington,United States,Computer Programming II,CSE143,Object-Oriented Programming and Data Structures,COMP2012,4 Credits,B034415-02
-University of Washington,United States,GIS Database and Programming,GEOG465,Database Management Systems,COMP3311,3 Credits,B033759-01
-University of Washington,United States,Introduction to Operating Systems,CSE451,Operating Systems,COMP3511,3 Credits,B032851-01
-University of Washington,United States,Introduction to Programming I,COMPSCI&ENG142,Introduction to Computing with Java,COMP1022P,3 Credits,B032949-02
-University of Washington,United States,The Hardware/Software Interface,CSE351,Computer Organization,COMP2611,4 Credits,B013656-01
-University of Waterloo,Canada,Algorithms,CS341,Design and Analysis of Algorithms,COMP3711,3 Credits,B010766-02
-University of Waterloo,Canada,Algorithms and Data Structures,ECE250,Design and Analysis of Algorithms,COMP3711,3 Credits,B007564-02
-University of Waterloo,Canada,Computer Networks,CS456,Computer Communication Networks I,COMP4621,3 Credits,B012905-02
-University of Waterloo,Canada,Computer Security and Privacy,CS458,Computer and Communication Security,COMP4631,3 Credits,B037586-01
-University of Waterloo,Canada,Image Processing,ECE417,Image Processing,COMP4421,3 Credits,B030945-02
-University of Waterloo,Canada,Introduction to Artificial Intelligence,CS486,Fundamentals of Artificial Intelligence,COMP3211,3 Credits,B008440-02
-University of Waterloo,Canada,Networks and Distributed Computer Systems,CS436,Computer Communication Networks I,COMP4621,3 Credits,B035125-01
-University of Waterloo,Canada,Operating Systems,CS350,Operating Systems,COMP3511,3 Credits,B008435-02
-University of Waterloo,Canada,Operating Systems and Systems Programming,ECE254,Operating Systems,COMP3511,3 Credits,B030021-01
-University of Waterloo,Canada,Principles of Programming Languages,CS442,Principles of Programming Languages,COMP3031,3 Credits,B037585-01
-University of Waterloo,Canada,Real-Time Operating Systems,ECE350,Operating Systems,COMP3511,3 Credits,B036510-01
-University of Waterloo,Canada,Software Design and Architecture,ECE452,Software Engineering,COMP3111,4 Credits,B037375-01
-University of Waterloo,Canada,User Interfaces,CS349,Computer Science Track Course,COMPG&M,3 Credits,B008597-03
-UOW College Hong Kong,"Hong Kong SAR, China",Application for Portable Devices,AST20207,Computer Science Track Course,COMPS&D,3 Credits,B000180-03
-UOW College Hong Kong,"Hong Kong SAR, China",Computer Organization,AST10201,Computer Organization,COMP2611,4 Credits,B002248-02
-UOW College Hong Kong,"Hong Kong SAR, China",Computer System Development,AST20613,Computer Science Track Course,COMPS&D,3 Credits,B002346-02
-UOW College Hong Kong,"Hong Kong SAR, China",Database Systems and Design (eqv code: DCO20401),AST20401,Database Management Systems,COMP3311,3 Credits,B000120-05
-UOW College Hong Kong,"Hong Kong SAR, China",Discrete Mathematics,AST21111,Computer Science Track Course,COMPA&T,3 Credits,B002772-07
-UOW College Hong Kong,"Hong Kong SAR, China",Information Systems in Business (eqv code: DCO20404),AST20404,Computer Science Track Course,COMPS&D,3 Credits,B000123-03
-UOW College Hong Kong,"Hong Kong SAR, China",Internet Security,AST20203,Computer and Communication Security,COMP4631,3 Credits,B000116-03
-UOW College Hong Kong,"Hong Kong SAR, China",Introduction to Programming,AST10106,Introduction to Computing with Java,COMP1022P,3 Credits,B002224-03
-UOW College Hong Kong,"Hong Kong SAR, China",Introduction to Web Development,AST11110,Internet Computing,COMP4021,3 Credits,B033012-01
-UOW College Hong Kong,"Hong Kong SAR, China",Object-Oriented Programming and Design (eqv code: DCO10105/DCO21105),AST21105,Introduction to Computing with Java,COMP1022P,3 Credits,B000107-05
-UOW College Hong Kong,"Hong Kong SAR, China",Understanding the Network-Centric World,AST10303,Computer Communication Networks I,COMP4621,3 Credits,B002249-05
-UOW College Hong Kong,"Hong Kong SAR, China",Web Programming (eqv code: DCO20201),AST20201,Internet Computing,COMP4021,3 Credits,B000114-03
-Vanderbilt University,United States,Discrete Structures,CS2212,Discrete Mathematical Tools for Computer Science,COMP2711,4 Credits,B034366-01
-Washington University in St. Louis,United States,Introduction to Intelligent AgentsUsing Science Fiction,CSE311A,Computer Science Track Course,COMPA&T,3 Credits,B034950-02
-Washington University in St. Louis,United States,Machine Learning,CSE517A,Machine Learning,COMP4211,3 Credits,B014897-05
-Washington University in St. Louis,United States,Operating Systems Organization,CSE422S,Operating Systems,COMP3511,3 Credits,B012503-02
-Washington University in St. Louis,United States,Operating Systems Organization,CSE422S,System and Kernel Programming in Linux,COMP4511,3 Credits,B012503-03
-Yale University through virtual study,United States,Introduction to Computing for Engineers and Scientists,ENAS130,C Programming Bridging Course,COMP1029C,1 Credit,B037089-01
-Yonsei University,"Korea, Republic of",Algorithm Analysis,CSI3108,Design and Analysis of Algorithms,COMP3711,3 Credits,B035488-01
-Yonsei University,"Korea, Republic of",Database System,LIS3701,Database Management Systems,COMP3311,3 Credits,B034961-01
-Yonsei University,"Korea, Republic of",Information Visualization,LIS4809,Data Visualization,COMP4462,3 Credits,B034965-01
-Yonsei University,"Korea, Republic of",Machine Learning,CSI4120,Machine Learning,COMP4211,3 Credits,B034963-01
-Yonsei University,"Korea, Republic of",Object-Oriented Programming,CSI2102,Object-Oriented Programming and Data Structures,COMP2012,4 Credits,B035487-01
-Yonsei University,"Korea, Republic of",Operating System,CSI3101,Operating Systems,COMP3511,3 Credits,B034962-01
-Yonsei University,"Korea, Republic of",SW Programming,YCS1002-03,Introduction to Computer Science,COMP1021,3 Credits,B035640-01
-Yonsei University,"Korea, Republic of",Text Mining,LIS4810,Computer Science Track Course,COMPA&T,3 Credits,B034964-02
-Yonsei University through virtual study,"Korea, Republic of",Algorithm Analysis,CSI3108,Design and Analysis of Algorithms,COMP3711,3 Credits,B036039-01
-Yonsei University through virtual study,"Korea, Republic of",SW Programming,YCS1002,Introduction to Computer Science,COMP1021,3 Credits,B036038-01
+﻿school_name,country,oversea_course,oversea_code,ust_course,ust_code,credit,ref
+BI Norwegian Business School,Norway,Databases,EBA3420,Computer Science Track Course,COMPS&D,3,B033816-03
+Boston College,United States,Topics in Computer Science: Introduction to Network Science,CSCI3390,Computer Science Track Course,COMPA&T,3,B034352-02
+Boston College,United States,Topics in Data Science: Computational Modelling of Contagion and Epidemics,CSCI3391,Computer Science Track Course,COMPA&T,3,B039668-02
+Boston College,United States,Topics in Parallel Computing: Parallel Algorithms and GPU Computing,CSCI3396,Parallel Programming,COMP5112,3,B034386-01
+Case Western Reserve University,United States,Introduction to Programming with Java,EECS132,Introduction to Computing with Java,COMP1022P,3,B035792-01
+Chalmers University of Technology,Sweden,Computer Architecture,DAT105,Design and Analysis of Computer Architectures,COMP4611,3,B040080-01
+Chalmers University of Technology,Sweden,Scientific Visualization,MVE080,Computer Science Track Course,COMPG&M,3,B040079-02
+Chungbuk National University,"Korea, Republic of",Cultivating Computational Thinking,0914001,Introduction to Computer Science,COMP1021,3,B036042-01
+City University of Hong Kong,"Hong Kong SAR, China",Microcomputer Systems,EE2004,Computer Organization,COMP2611,4,B036194-01
+Columbia University in the City of New York,United States,Computability and Models of Computation,CS3261,Theory of Computation,COMP3721,3,B032999-01
+Columbia University in the City of New York,United States,Introduction to Databases,COMS4111,Database Management Systems,COMP3311,3,B036366-01
+Columbia University in the City of New York,United States,Machine Learning,COMS4771,Machine Learning,COMP4211,3,B034831-01
+Columbia University in the City of New York,United States,Operating Systems I,COMS4118,Operating Systems,COMP3511,3,B035531-01
+Cornell University,United States,Autonomous Mobile Robots,MAE4180/CS3758/ECE47,Perception and Information Processing for Robotics,COMP5223,3,B035679-01
+Cornell University,United States,Discrete Structures,CS2800,Discrete Mathematical Tools for Computer Science,COMP2711,4,B008046-02
+Cornell University,United States,Fundamentals of Machine Learning,ECE4200,Machine Learning,COMP4211,3,B035026-01
+Cornell University,United States,Introduction to Computing using Python,CS1110,Introduction to Computer Science,COMP1021,3,B010690-02
+Czech Technical University in Prague,Czech Republic,Computer and Communication Networks,BE5B32PKS,Computer Communication Networks I,COMP4621,3,B033727-01
+Czech Technical University in Prague,Czech Republic,Effective C++ Programming,NIE-EPC,Computer Science Track Course,COMPS&D,3,B039101-02
+Czech Technical University in Prague,Czech Republic,Network Operating Systems,BE6B32SOS,Computer Science Track Course,COMPS&N,3,B033729-02
+Czech Technical University in Prague,Czech Republic,Network Technology 1,BIEST1,Computer Science Track Course,COMPS&N,2,B033728-01
+Delft University of Technology,Netherlands,Big Data Processing,CSE2520,Big Data Mining and Management,COMP4332,3,B040366-01
+Delft University of Technology,Netherlands,High-performance Data Networking,CESE4045,Computer Science Track Course,COMPS&N,3,B040521-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,A network tour of data science,EE558,Computer Science Track Course,COMPS&D,3,B033261-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Advanced Cryptography,COM-501,Computer Science Track Course,COMPS&N,3,B037245-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Artificial neural networks,CS456,Machine Learning,COMP4211,3,B015523-04
+Ecole Polytechnique Federale de Lausanne,Switzerland,Computational Photography,CS413,Computer Science Track Course,COMPG&M,3,B034263-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Computer security,COM301,Principles of Cybersecurity,COMP3632,3,B034678-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Deep Learning,EE559,Computer Science Track Course,COMPA&T,3,B034264-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Experience design,CS489,Computer Science Track Course,COMPG&M,3,B033266-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Foundation of probabilistic proofs,CS-602,Computer Science Track Course,COMPA&T,3,B038308-03
+Ecole Polytechnique Federale de Lausanne,Switzerland,Graph Theory,MATH360,Computer Science Track Course,COMPA&T,3,B032234-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Interaction Design,CS486,Human-Computer Interaction,COMP4461,3,B039224-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Computer Graphics,CS341,Computer Graphics,COMP4411,3,B007724-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Database Systems,CS322,Database Management Systems,COMP3311,3,B007725-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Machine Learning,CS233,Machine Learning,COMP4211,3,B034262-03
+Ecole Polytechnique Federale de Lausanne,Switzerland,Introduction to Natural Language Processing,CS-431,Introduction to Natural Language Processing,COMP4221,3,B039394-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Learning theory,CS-526,Computer Science Track Course,COMPA&T,3,B038310-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Machine Learning for Behavioral Data,CS-421,Computer Science Track Course,COMPA&T,3,B038210-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Modern Natural Language Processing,CS552,Computer Science Track Course,COMPA&T,3,B040397-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Networks out of Control,COM-512,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B039116-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Optimization for Machine Learning,CS439,Computer Science Track Course,COMPA&T,3,B015543-06
+Ecole Polytechnique Federale de Lausanne,Switzerland,Parallel and high performance computing,MATH-454,Parallel Programming,COMP5112,3,B015538-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Parallelism and Concurrency,CS206,Computer Science Track Course,COMPS&D,3,B011557-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,Software Security,CS412,Computer Science Track Course,COMPS&N,3,B034265-02
+Ecole Polytechnique Federale de Lausanne,Switzerland,TCP/IP networking,COM407,Computer Networks,COMP5621,3,B033264-01
+Ecole Polytechnique Federale de Lausanne,Switzerland,Theory of Computation,CS251,Theory of Computation,COMP3721,3,B007726-03
+Ecole Polytechnique Federale de Lausanne,Switzerland,Virtual Reality,CS444,Computer Science Track Course,COMPG&M,3,B040871-02
+Ecole Polytechnique Federale de Lausanne through the Global Virtual Exchange Program,Switzerland,Biological Modeling of Neural Networks,BIO-465,Computer Science Track Course,COMPA&T,4,B035825-03
+Ecole Polytechnique Federale de Lausanne through the Global Virtual Exchange Program,Switzerland,Biological Modeling of Neural Networks,BIO-465,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,4,B035825-04
+Fudan University,China,Distributed Ledger (Blockchain) Technology 分布式账本（区块链）技术,COMP110044,Computer Science Track Course,COMPS&N,3,B038234-02
+Fudan University,China,Introduction to AI - Probabilistic Reasoning and Decision Making (2 credits),#,Computer Science Track Course,COMPA&T,2,B034993-02
+Fudan University,China,Introduction to Artificial Intelligence 人工智能导论,INFO130358,Fundamentals of Artificial Intelligence,COMP3211,3,B038149-01
+Fudan University through virtual study,China,Introduction to AI - Probabilistic Reasoning and Decision Making (3 credits),#,Computer Science Track Course,COMPA&T,3,B037477-02
+Fudan University through virtual study,China,Introduction to Artificial Intelligence-Probabilistic Reasoning and Decision Making (2 credits),ECON170026,Computer Science Track Course,COMPA&T,2,B036624-01
+Fudan University through virtual study,China,Introduction to Python (3 credits),ECON2170031,Introduction to Computer Science,COMP1021,3,B040181-01
+Hamburg University of Applied Sciences,Germany,Artificial Intelligence & Software Agents,#,Computer Science Track Course,COMPA&T,3,B039876-01
+Hamburg University of Applied Sciences,Germany,Databases,#,Database Management Systems,COMP3311,3,B003980-02
+Hamburg University of Applied Sciences,Germany,Operating Systems,#,Operating Systems,COMP3511,3,B004045-02
+Hanyang University,"Korea, Republic of",AI and Finance,ISS1142,COMP 2000 LEVEL Course,COMP2000LEVEL,0,B035873-01
+Hanyang University through virtual study,"Korea, Republic of",AI and Finance,ISS1142,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B035955-01
+Harvard University,United States,Programming Languages,COMPSCI152,Principles of Programming Languages,COMP3031,3,B038817-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Networking,SEHH2238,Computer Communication Networks I,COMP4621,3,B035175-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Networking,CCN2238,Computer Communication Networks I,COMP4621,3,B002222-03
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Organisation,SEHH2264,Computer Organization,COMP2611,4,B035183-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Organization,CCN2264,Computer Organization,COMP2611,4,B002215-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Programming,SEHH2042,Introduction to Computer Science,COMP1021,3,B035246-03
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer System Principles,SEHH3133,Computer Science Track Course,COMPS&N,3,B036323-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Computer Systems Principles,CCN3133,Computer Science Track Course,COMPS&N,3,B020013-05
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Data Management with SAS Programming,SEHH2310,Computer Science Track Course,COMPS&D,3,B035316-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Data Structures,CCN2239,Computer Science Track Course,COMPA&T,3,B002218-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Data Structures,SEHH2239,Computer Science Track Course,COMPA&T,3,B035144-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Database Systems,CCN2240,Database Management Systems,COMP3311,3,B002216-03
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Database Systems,SEHH2240,Database Management Systems,COMP3311,3,B035266-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Discrete Structures,SEHH2241,Computer Science Track Course,COMPA&T,3,B035146-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Discrete Structures,CCN2241,Computer Science Track Course,COMPA&T,3,B002219-03
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Engineering Graphics and Computing,SEHH2269,Computer Science Track Course,COMPG&M,3,B035334-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Engineering Graphics and Computing,CCN2269,Computer Science Track Course,COMPG&M,3,B020019-04
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Big Data Analytics,SEHH3163,Cloud Computing and Big Data Systems,COMP4651,3,B035318-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Data Mining,SEHH3164,Data Mining,COMP4331,3,B035331-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Human-Computer Interaction Methods,SEHH2271,Human-Computer Interaction,COMP4461,3,B035174-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Introduction to Human-Computer Interaction Methods,CCN2271,Human-Computer Interaction,COMP4461,3,B002229-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Logic Design,SEHH2272,Computer Science Track Course,COMPS&N,3,B035147-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Logic Design,CCN2272,Computer Science Track Course,COMPS&N,3,B002223-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Mobile Apps Development,SEHH3165,Mobile Application Development,COMP4521,3,B035173-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Object Oriented Programming,SEHH2242,Introduction to Computing with Java,COMP1022P,3,B035609-01
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Operating Systems,SEHH2273,Computer Science Track Course,COMPS&N,3,B035182-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Software Engineering,SEHH3143,Computer Science Track Course,COMPS&D,3,B036355-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Survey Design and Analysis,SEHH2277,Computer Science Track Course,COMPS&D,3,B036501-02
+"Hong Kong Community College, The Hong Kong Polytechnic University","Hong Kong SAR, China",Visual Interface and Interaction Design and Development,SEHH2279,Human-Computer Interaction,COMP4461,3,B036441-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Advanced Network Routing and Switching,ITP4937,Computer Science Track Course,COMPS&N,3,B036785-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Artificial Intelligence and Machine Learning,ITP4514,Fundamentals of Artificial Intelligence,COMP3211,3,B039111-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Artificial Intelligence Technologies,ITP4221,Fundamentals of Artificial Intelligence,COMP3211,3,B039216-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China","Artificial Intelligence, Big Data and Cyber Security",EEE4460,Computer Science Track Course,COMPA&T,3,B036319-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Augmented And Virtual Reality Engineering,EEE3454,Computer Science Track Course,COMPG&M,3,B036797-03
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Computer Programming for Engineering Applications,EEE3801,Introduction to Computing with Java,COMP1022P,3,B035547-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Connecting WAN,ITP4938,Computer Science Track Course,COMPS&N,3,B036783-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Contemporary Topics in Software Engineering,ITP4507,Computer Science Track Course,COMPS&D,3,B030625-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Science and Machine Learning,ITP4867,Machine Learning,COMP4211,3,B035561-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Structures & Algorithms: Concepts & Implementation,ITP4510,Computer Science Track Course,COMPA&T,3,B037472-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Visualization,ITP4864,Data Visualization,COMP4462,3,B035563-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Data Warehousing and Data Mining,ITP4868,Data Mining,COMP4331,3,B035562-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Database Principles,ITP4903,Database Management Systems,COMP3311,3,B002283-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Discrete Mathematics and Statistics,ITP3902,Computer Science Track Course,COMPA&T,3,B033020-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Electronic Technologies of Internet-of-Things,EEE4016,Computer Science Track Course,COMPS&N,3,B036157-03
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Embedded Systems,EEE3456,Introduction to Computer Science,COMP1021,3,B037045-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Enterprise Systems Development,ITP4511,Computer Science Track Course,COMPS&D,3,B030624-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Human Computer Interaction & GUI Programming,ITP4506,Human-Computer Interaction,COMP4461,3,B030626-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Information Technology Essentials - Applied Science,ITE3004,1000-level Course in Computer Science and Engineering,COMP1000LEVEL,3,B002914-04
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Internet-of-Things Technology and Applications,EEE4459,Computer Science Track Course,COMPS&N,3,B039105-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Introduction to Networks,ITE3113,Computer Communication Networks I,COMP4621,3,B036784-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Introduction to Programming,ITE3101,Introduction to Computing with Java,COMP1022P,3,B002272-03
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",IP Routing Implementation,ITP4939,Computer Science Track Course,COMPS&N,3,B036786-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Mobile Platforms and Devices,EIE4225,Mobile Application Development,COMP4521,3,B033233-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Mobile Platforms and Devices,EEE4209,Mobile Application Development,COMP4521,3,B036151-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Network Fundamentals,ITE3102,Computer Communication Networks I,COMP4621,3,B002273-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Network Security (eqv code: ITP4304),ITP4314,Computer and Communication Security,COMP4631,3,B002277-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object Oriented Programming,ITP4905,Introduction to Computing with Java,COMP1022P,3,B002284-03
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object Oriented Technology,ITP4909,Computer Science Track Course,COMPS&D,3,B037471-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Object-oriented and Mobile Device Programming,EEE3457,Mobile Application Development,COMP4521,3,B036314-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Operating Systems Fundamentals,ITP3901,Computer Science Track Course,COMPS&N,3,B033021-01
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Programming,ITP3914,Introduction to Computer Science,COMP1021,3,B030629-04
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Programming Technique Fundamentals,EEE3111,Introduction to Computer Science,COMP1021,3,B030734-03
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Programming Techniques for Mobile Systems,ITP4501,Mobile Application Development,COMP4521,3,B030627-02
+Hong Kong Institute of Vocational Education,"Hong Kong SAR, China",Web Application Development Frameworks,ITP4922,Computer Science Track Course,COMPS&D,3,B030699-02
+Institut Supérieur d'Électronique de Paris,France,Advanced Web Technologies,II3506,Internet Computing,COMP4021,3,B006105-04
+Institut Supérieur d'Électronique de Paris,France,Computer Microsystems,IE2410,Operating Systems,COMP3511,3,B033585-02
+Institut Supérieur d'Électronique de Paris,France,Data Analysis,II2313/II2413,Computer Science Track Course,COMPA&T,3,B034388-04
+Institut Supérieur d'Électronique de Paris,France,Databases and Big Data,II2314/II2414,Database Management Systems,COMP3311,3,B034387-01
+Institut Supérieur d'Électronique de Paris,France,Introduction to Artificial Intelligence,ID2401,Fundamentals of Artificial Intelligence,COMP3211,3,B034390-01
+Institut Supérieur d'Électronique de Paris,France,Machine Learning,IG3510,Machine Learning,COMP4211,3,B034542-01
+Institut Supérieur d'Électronique de Paris,France,Mobile Development / Services for mobility,II3510,Mobile Application Development,COMP4521,3,B006102-04
+Katholieke Universiteit Leuven,Belgium,Information Retrieval and Search Engines,B-KUL-H02C8B,Computer Science Track Course,COMPS&D,3,B040310-02
+Korea Advanced Institute of Science and Technology,"Korea, Republic of",Introduction to Computer Networks,CS341,Computer Communication Networks I,COMP4621,3,B038718-01
+Korea Advanced Institute of Science and Technology,"Korea, Republic of",Introduction to Information Security,CS348,Principles of Cybersecurity,COMP3632,3,B038716-01
+Korea Advanced Institute of Science and Technology,"Korea, Republic of",Operating Systems and Lab,CS330,Operating Systems,COMP3511,3,B037355-01
+Korea University,"Korea, Republic of",Algorithms,COSE214,Design and Analysis of Algorithms,COMP3711,3,B040588-01
+Korea University,"Korea, Republic of",Artificial Intelligence,COSE361,Fundamentals of Artificial Intelligence,COMP3211,3,B037409-02
+Korea University,"Korea, Republic of",Computer Architecture,COSE222,Computer Organization,COMP2611,4,B033155-01
+Korea University,"Korea, Republic of",Databases,COSE371,Database Management Systems,COMP3311,3,B033287-01
+Korea University,"Korea, Republic of",Discrete Mathematics,COSE211,Discrete Mathematical Tools for Computer Science,COMP2711,4,B034381-01
+Korea University,"Korea, Republic of",Machine Learning,COSE362,Machine Learning,COMP4211,3,B035004-01
+Korea University,"Korea, Republic of",Software Engineering,COSE352,Software Engineering,COMP3111,4,B033156-01
+Korea University,"Korea, Republic of",Theory of Computation,COSE215,Theory of Computation,COMP3721,3,B037590-01
+Lancaster University,United Kingdom,Databases,SCC201,Database Management Systems,COMP3311,3,B037115-01
+Linnaeus University,Sweden,Discrete Mathematics,1MA462,Discrete Mathematical Tools for Computer Science,COMP2711,4,B008417-02
+Lund University,Sweden,Artificial Intelligence,EDAP01,Fundamentals of Artificial Intelligence,COMP3211,3,B036381-01
+Lund University,Sweden,Computer Vision,FMAN95,Computer Science Track Course,COMPG&M,3,B036379-02
+Lund University,Sweden,Informatics: Advanced Database Systems,INFC20,Database Management Systems,COMP3311,3,B013026-03
+Lund University,Sweden,Machine Learning,FMAN45,Machine Learning,COMP4211,3,B036380-01
+Metropolia University of Applied Sciences,Finland,Basics of Virtualization and Cloud Computing,TX00DH60,Computer Science Track Course,COMPS&D,3,B032970-02
+Metropolia University of Applied Sciences,Finland,Cybersecurity Operations,TX00DP60,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3,B032966-01
+Metropolia University of Applied Sciences,Finland,Database Solutions,TX00CR58-3011,Computer Science Track Course,COMPS&D,3,B038864-01
+Metropolia University of Applied Sciences,Finland,Full Stack Web Development,TX00EY87-3001,Computer Science Track Course,COMPS&D,3,B038865-01
+Metropolia University of Applied Sciences,Finland,Game Design,TX00CD87,Game Programming,COMP4451,3,B040362-01
+Metropolia University of Applied Sciences,Finland,Internet of Things,TX00CI63,Computer Science Track Course,COMPS&N,3,B030195-03
+Metropolia University of Applied Sciences,Finland,IoT Connecting Things,TX00DT16,IoT and Smart Sensing,COMP4531,3,B040377-01
+Metropolia University of Applied Sciences,Finland,Mathematics and Methods in Machine Learning and Neural Networks,TX00DV61-3003,Computer Science Track Course,COMPA&T,3,B038863-01
+Metropolia University of Applied Sciences,Finland,Neural Networks for Machine Learning Applications,TX00EW91-3001,Computer Science Track Course,COMPA&T,3,B038862-01
+Metropolia University of Applied Sciences,Finland,Sensor Based Mobile Applications,TX00CK66-3011,Mobile Application Development,COMP4521,3,B040552-01
+Michigan State University,United States,Web Application Development,CSE477,Internet Computing,COMP4021,3,B034841-01
+Missouri University of Science and Technology,United States,Introduction to C++ Programming,COMPSCI1570,Programming with C++,COMP2011,4,B038851-01
+Nanyang Technological University,Singapore,Algorithms for the Real World,MH3400,Design and Analysis of Algorithms,COMP3711,3,B035365-01
+Nanyang Technological University,Singapore,Artificial Intelligence,CZ3005,Fundamentals of Artificial Intelligence,COMP3211,3,B010462-02
+Nanyang Technological University,Singapore,Artificial Intelligence and Data Mining,EE4483,Computer Science Track Course,COMPA&T,3,B033337-01
+Nanyang Technological University,Singapore,Cloud Computing,CE4052,Computer Science Track Course,COMPS&N,3,B040695-02
+Nanyang Technological University,Singapore,Cyber Security,EE8084/EE8096,Principles of Cybersecurity,COMP3632,3,B014328-02
+Nanyang Technological University,Singapore,Cyber Security,EE5084,Principles of Cybersecurity,COMP3632,3,B039277-01
+Nanyang Technological University,Singapore,Data Mining,CS2405,Data Mining,COMP4331,3,B038823-01
+Nanyang Technological University,Singapore,Machine Learning,CE4041,Machine Learning,COMP4211,3,B012388-04
+National Taiwan University,Taiwan,Advanced Artificial Intelligence (高等人工智慧),CSIE7007,Fundamentals of Artificial Intelligence,COMP3211,3,B035957-02
+National Taiwan University,Taiwan,Advanced Interactive Technologies,CSIE7645,Computer Science Track Course,COMPG&M,3,B035101-02
+National Taiwan University,Taiwan,Algorithms,EE4033,Design and Analysis of Algorithms,COMP3711,3,B036139-01
+National Taiwan University,Taiwan,Augmented Reality Special Project,CSIE5011,Computer Science Track Course,COMPG&M,3,B035641-01
+National Taiwan University,Taiwan,Computer Architecture,CSIE3340,Computer Organization,COMP2611,4,B036141-01
+National Taiwan University,Taiwan,Computer Programming,LIS2009,Introduction to Computing with Java,COMP1022P,3,B035932-01
+National Taiwan University,Taiwan,Computer Science and Information Technology (1) 前瞻資訊科技一,CSIE3015,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B036093-01
+National Taiwan University,Taiwan,Computer System Laboratory,CSIE3311,Computer Science Track Course,COMPG&M,2,B036144-02
+National Taiwan University,Taiwan,Cryptography and Network Security,CSIE7190,Computer and Communication Security,COMP4631,3,B034742-01
+National Taiwan University,Taiwan,Data Structures and Algorithms,CSIE1212,Programming with C++,COMP2011,4,B035803-02
+National Taiwan University,Taiwan,Database Management System – from SQL to NoSQL,EE5178,Database Management Systems,COMP3311,3,B036138-01
+National Taiwan University,Taiwan,Game Programming,CSIE5121,Game Programming,COMP4451,3,B035740-01
+National Taiwan University,Taiwan,Introduction to Digital Speech Processing 數位語音處理概論,EE4037,Computer Science Track Course,COMPA&T,3,B036134-02
+National Taiwan University,Taiwan,Machine Learning,EE5184,Machine Learning,COMP4211,3,B036140-01
+National Taiwan University,Taiwan,Machine Learning Foundations,CSIE5432,Machine Learning,COMP4211,3,B036132-01
+National Taiwan University,Taiwan,Operating Systems,CSIE3310,Operating Systems,COMP3511,3,B008658-02
+National Taiwan University,Taiwan,Operating Systems 作業系統,EE5173,Operating Systems,COMP3511,3,B040158-01
+National Taiwan University,Taiwan,Practicum of Attacking and Defense of Network Security 網路攻防實習,EE5188,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3,B034337-01
+National Taiwan University,Taiwan,Programming Design,IM1003,Programming with C++,COMP2011,4,B035771-01
+National Taiwan University,Taiwan,Software Engineering Design,CSIE5734,Software Engineering,COMP3111,4,B036370-01
+National Taiwan University through virtual study,Taiwan,Algorithms,EE4033,Design and Analysis of Algorithms,COMP3711,3,B038712-01
+National Taiwan University through virtual study,Taiwan,Computer Architecture,CSIE3340,Computer Organization,COMP2611,4,B038047-01
+National Taiwan University through virtual study,Taiwan,Machine Learning,EE5184,Machine Learning,COMP4211,3,B038048-01
+National Taiwan University through virtual study,Taiwan,Operating Systems,CSIE3310,Operating Systems,COMP3511,3,B039182-01
+National Tsing Hua University,Taiwan,Programming Design,PME3001,Introduction to Computer Science,COMP1021,3,B033515-01
+National Tsing Hua University through virtual study,Taiwan,Analysis and Synthesis of Digital Audio Signals,#,Computer Science Track Course,COMPG&M,0,B035916-02
+National Tsing Hua University through virtual study,Taiwan,Introduction to Data Structure,#,Computer Science Track Course,COMPA&T,0,B035918-02
+National University of Singapore,Singapore,3D Computer Vision,CS4277,Computer Science Track Course,COMPA&T,3,B035505-02
+National University of Singapore,Singapore,AI Planning and Decision Making,CS4246,Computer Science Track Course,COMPA&T,3,B005597-04
+National University of Singapore,Singapore,Computer Graphics,CS3241,Computer Graphics,COMP4411,3,B002980-03
+National University of Singapore,Singapore,Computer Organisation,CS2100,Computer Organization,COMP2611,4,B003587-02
+National University of Singapore,Singapore,Computer Vision and Pattern Recognition,CS4243,Computer Science Track Course,COMPG&M,3,B039543-03
+National University of Singapore,Singapore,Database Technology and Management,IT2002,Database Management Systems,COMP3311,3,B000868-03
+National University of Singapore,Singapore,Design and Analysis of Algorithms,CS3230,Design and Analysis of Algorithms,COMP3711,3,B002131-02
+National University of Singapore,Singapore,Feature Engineering for Machine Learning,BT3017,Computer Science Track Course,COMPA&T,3,B037951-01
+National University of Singapore,Singapore,Interaction Design,CS3240,Human-Computer Interaction,COMP4461,3,B032552-02
+National University of Singapore,Singapore,Introduction to Information Security,CS2107,Principles of Cybersecurity,COMP3632,3,B003588-02
+National University of Singapore,Singapore,Introduction to Information Theory,CS3236,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B040732-01
+National University of Singapore,Singapore,Introduction to Machine Learning and Applications,IT3011,Machine Learning,COMP4211,3,B035324-01
+National University of Singapore,Singapore,Introduction to Media Computing,CS2108,Computer Science Track Course,COMPG&M,3,B037998-02
+National University of Singapore,Singapore,Learning from Data,EE4802,Machine Learning with Structured Data,COMP4222,3,B039774-01
+National University of Singapore,Singapore,Natural Language Processing,CS4248,Introduction to Natural Language Processing,COMP4221,3,B040872-01
+National University of Singapore,Singapore,Parallel and Concurrent Programming,CS3211,Computer Science Track Course,COMPS&D,3,B035688-02
+National University of Singapore,Singapore,Programming Language Concepts,CS2104,Principles of Programming Languages,COMP3031,3,B005593-02
+National University of Singapore,Singapore,Programming Language Implementation,CS4215,Principles of Programming Languages,COMP3031,3,B002971-03
+National University of Singapore,Singapore,Software Engineering And Object-Oriented Programming,CS2113,Software Engineering,COMP3111,4,B037032-01
+Newcastle University,United Kingdom,Big Data Analytics,CSC8101,Computer Science Track Course,COMPS&D,3,B037518-02
+Newcastle University,United Kingdom,Cryptography,CSC3621,Computer and Communication Security,COMP4631,3,B032852-01
+Newcastle University,United Kingdom,Database Technology,CSC2024,Database Management Systems,COMP3311,3,B035477-01
+Newcastle University,United Kingdom,Graphics for Games,CSC3223,Computer Science Track Course,COMPG&M,3,B002017-03
+Newcastle University,United Kingdom,Introduction to Machine Learning,EEE3022,Machine Learning,COMP4211,3,B039386-03
+Newcastle University,United Kingdom,Programming for Games,CSC3221,Computer Science Track Course,COMPS&D,3,B002016-03
+Newcastle University,United Kingdom,Programming Portfolio,CSC1036,Software Engineering,COMP3111,4,B039347-01
+Newcastle University,United Kingdom,Understanding Concurrency,CSC3324,Computer Science Track Course,COMPS&D,3,B033699-01
+Northwestern University,United States,AI Programming,CS325,Computer Science Track Course,COMPS&D,2,B034506-02
+Northwestern University,United States,Introduction to Database Systems,COMPSCI339,Database Management Systems,COMP3311,3,B037564-01
+Northwestern University,United States,Introduction to the Theory of Computation,COMP_SCI335,Theory of Computation,COMP3721,3,B038289-01
+Northwestern University,United States,Machine Learning,COMPSCI349,Machine Learning,COMP4211,3,B034842-01
+Northwestern University,United States,Operating Systems,COMPSCI343,Operating Systems,COMP3511,3,B034317-01
+Northwestern University,United States,Special Topics in CS - Social Networks Analysis,COMPSCI396,Computer Science Track Course,COMPS&N,3,B038250-02
+NYU Shanghai,China,Introduction to Computer Programming,CSCI-SHU11,Introduction to Computer Science,COMP1021,3,B034906-01
+Peking University,China,Intro. to Natural Language Processing 自然语言处理导论,04831780,Introduction to Natural Language Processing,COMP4221,3,B034679-01
+Peking University,China,Networking for Big Data Applications 网络与大数据应用,04834060,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B033559-06
+Peking University,China,"Theories, models & methods of computational Vision 计算视觉理论、模型与方法",04802019,Computer Vision,COMP5421,3,B034680-01
+Pomona College,United States,Introduction to Computer Science in Python,CSCI051P,Introduction to Computer Science,COMP1021,3,B035338-01
+Purdue University,United States,Applied Machine Learning,CNIT48300,Machine Learning,COMP4211,3,B037958-01
+Purdue University,United States,Data Mining,MGMT47300,Data Mining,COMP4331,3,B034014-02
+Purdue University,United States,Introduction to Artificial Intelligence,CS47100,Fundamentals of Artificial Intelligence,COMP3211,3,B034885-01
+Ramon Llull University,Spain,Artificial Intelligence and Machine Learning,B11030,Machine Learning,COMP4211,3,B030740-02
+Rice University,United States,Natural Language Processing,COMP652,Introduction to Natural Language Processing,COMP4221,3,B040897-02
+Rice University,United States,Operating Systems and Concurrent Programming,COMP421,Operating Systems,COMP3511,3,B040896-01
+Rice University,United States,Software Engineer Methodology,COMP410,Software Engineering,COMP3111,4,B040676-01
+Royal Institute of Technology,Sweden,Algorithms and Complexity,DD2352,Design and Analysis of Algorithms,COMP3711,3,B037158-01
+Royal Institute of Technology,Sweden,Applied Cryptography,DD2520,Computer Science Track Course,COMPS&N,3,B037664-04
+Royal Institute of Technology,Sweden,Applied Cryptography,DD2520,Computer and Communication Security,COMP4631,3,B037396-01
+Royal Institute of Technology,Sweden,Artificial Neural Networks and Deep Architectures,DD2437,COMPA&T - Computer Science Track Course,COMPA&T,3,B034876-01
+Royal Institute of Technology,Sweden,Automated Software Testing and DevOps,DD2482,Computer Science Track Course,COMPS&D,3,B034408-03
+Royal Institute of Technology,Sweden,Computer security,DD239U,Principles of Cybersecurity,COMP3632,3,B037395-02
+Royal Institute of Technology,Sweden,Computer Systems Architecture,IS2202,Design and Analysis of Computer Architectures,COMP4611,3,B007540-02
+Royal Institute of Technology,Sweden,Cybersecurity Overview,DD2391,Principles of Cybersecurity,COMP3632,3,B039320-01
+Royal Institute of Technology,Sweden,"Data Mining, Basic Course",ID2211,Computer Science Track Course,COMPS&D,3,B036997-03
+Royal Institute of Technology,Sweden,Developing Mobile Applications,ID2216,Mobile Application Development,COMP4521,3,B003825-04
+Royal Institute of Technology,Sweden,Digital Image Processing and Applications,AG2413,Image Processing,COMP4421,3,B037533-01
+Royal Institute of Technology,Sweden,Evaluation Methods in Human-Computer Interaction,DH2408,Human-Computer Interaction,COMP4461,3,B033285-01
+Royal Institute of Technology,Sweden,Foundations of Cryptography,DD2448,Computer Science Track Course,COMPS&N,3,B037020-02
+Royal Institute of Technology,Sweden,Foundations of Machine Learning,DD1420,Machine Learning,COMP4211,3,B036975-01
+Royal Institute of Technology,Sweden,Information Visualization,DH2321,Data Visualization,COMP4462,3,B037532-01
+Royal Institute of Technology,Sweden,Internetworking,IK1552,Computer Communication Networks I,COMP4621,3,B033184-01
+Royal Institute of Technology,Sweden,Introduction to Computer Security,IV1013,Computer and Communication Security,COMP4631,3,B036976-01
+Royal Institute of Technology,Sweden,Introduction to High Performance Computing,DD2358,Parallel Programming,COMP5112,3,B036977-01
+Royal Institute of Technology,Sweden,"Introduction to Visualization, Computer Graphics and Image/Video Processing",DD2258,Computer Science Track Course,COMPG&M,3,B036978-03
+Royal Institute of Technology,Sweden,Language-Based Security,DD2525,Computer Science Track Course,COMPS&N,3,B037665-04
+Royal Institute of Technology,Sweden,Large-Scale Software Development,DD2487,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B035376-01
+Royal Institute of Technology,Sweden,Machine Learning,DD2421,Machine Learning,COMP4211,3,B020263-03
+Royal Institute of Technology,Sweden,Methods in High Performance Computing,DD2356,Computer Science Track Course,COMPS&D,3,B033186-02
+Royal Institute of Technology,Sweden,Multimodal Interaction and Interfaces,DT2140,Computer Science Track Course,COMPG&M,3,B033286-01
+Royal Institute of Technology,Sweden,Musical Communication and Music Technology,DT2213,Computer Music,COMP4441,3,B007543-03
+Royal Institute of Technology,Sweden,Parallel Computations for Large- Scale Problems,SF2568,Parallel Programming,COMP5112,3,B033185-01
+Royal Institute of Technology,Sweden,Pattern Recognition and Machine Learning,EQ2341,Computer Science Track Course,COMPA&T,3,B040067-01
+Royal Institute of Technology,Sweden,Principles of Programming Languages,DD2481,Principles of Programming Languages,COMP3031,3,B034407-01
+Royal Institute of Technology,Sweden,Search Engines and Information Retrieval Systems,DD2477,Search Engines for Web and Enterprise Data,COMP4321,3,B037534-01
+Royal Institute of Technology,Sweden,Software Engineering Fundamentals,DD2480,Software Engineering,COMP3111,4,B037170-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Big Data Applications and Analytics,CCIT4079,Computer Science Track Course,COMPA&T,3,B036364-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Computer Systems and Network Protocol Essentials (eqv code: CC88-646),CCIT4053,Computer Science Track Course,COMPS&N,3,B002258-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data and Computer Communication,CCIM4034,Computer Communication Networks I,COMP4621,3,B035439-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data Mining,CCIT4075,Data Mining,COMP4331,3,B031795-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Data Visualization,CCIT4092,Data Visualization,COMP4462,3,B036362-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Ethical Hacking (eqv code: CC88-624),CCIT4037,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3,B002261-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Information Security (eqv code: CC88-299),CCIT4014,Computer and Communication Security,COMP4631,3,B000125-03
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Internet Programming (eqv code: CC88-760),CCIT4058,Internet Computing,COMP4021,3,B005333-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Computer Programming (eqv code: CC88-321),CCIT4020,Introduction to Computing with Java,COMP1022P,3,B002263-03
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Data Structures and Algorithms,CCIT4016,Computer Science Track Course,COMPA&T,3,B006686-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Database Systems (eqv code: CC88-620),CCIT4033,Database Management Systems,COMP3311,3,B002264-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Introduction to Information Security,CCIT4014,Computer and Communication Security,COMP4631,3,B036644-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Local Area Networking,CCIT4034,Computer Science Track Course,COMPS&N,3,B033049-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Machine Learning,CCIT4093,Machine Learning,COMP4211,3,B036363-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Mathematics for Computing (eqv code: CC88-322),CCIT4021,Computer Science Track Course,COMPA&T,3,B005339-04
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Mobile Application Development (eqv code: CC88-761),CCIT4059,Mobile Application Development,COMP4521,3,B005341-04
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Network Security (eqv code: CC88-627),CCIT4040,Computer and Communication Security,COMP4631,3,B002268-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Object-Oriented Programming,CCIT4023,Introduction to Computing with Java,COMP1022P,3,B035577-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Programming for Data Science,CCIT4088,Introduction to Computer Science,COMP1021,3,B036361-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Project on Knowledge Products Development,CCIT4080A,Computer Science Track Course,COMPS&D,3,B033113-01
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Shell Programming (eqv code: CC88-645),CCIT4052,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B002269-03
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",Software Engineering,CCIM4054,Computer Science Track Course,COMPS&D,3,B013442-04
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China","Switching, Wireless and Routing Essentials",CCIT4034,Computer Science Track Course,COMPS&N,3,B039213-02
+"School of Professional and Continuing Education, The University of Hong Kong","Hong Kong SAR, China",System Administration (eqv code: CC88-622),CCIT4035,Computer Science Track Course,COMPS&N,3,B002270-04
+Seoul National University,"Korea, Republic of",Introduction to Computer Science,400208,Introduction to Computer Science,COMP1021,3,B010671-02
+Shanghai Jiao Tong University through virtual study,China,Data Structures and Algorithms,VE281/ECE2810J,Design and Analysis of Algorithms,COMP3711,3,B038007-03
+Singapore Management University,Singapore,Foundations of Cybersecurity,CS440,Principles of Cybersecurity,COMP3632,3,B037773-01
+Singapore Management University,Singapore,Introduction to Artificial Intelligence,CS420,Fundamentals of Artificial Intelligence,COMP3211,3,B037690-01
+Stanford University,United States,Client-Side Internet Technologies,CS193C,Internet Computing,COMP4021,3,B001628-02
+Stanford University,United States,Design and Analysis of Algorithms,CS161,Design and Analysis of Algorithms,COMP3711,3,B032945-01
+Stanford University,United States,Programming Methodologies in Python,CS106AP,Introduction to Computer Science,COMP1021,3,B033481-01
+Stanford University through virtual study,United States,Programming Methodology,CS106A,Introduction to Computer Science,COMP1021,3,B038182-01
+Stony Brook University,United States,Foundations of Computer Science,CSE215,Discrete Mathematical Tools for Computer Science,COMP2711,4,B038073-01
+Sungkyunkwan University,"Korea, Republic of",Introduction to AI: Thinking Analytically about Creative Machines,ISS3198,Exploring Artificial Intelligence,COMP2211,3,B039181-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Advanced Machine Learning,2520535-00X,Computer Science Track Course,COMPA&T,3,B032342-04
+Swiss Federal Institute of Technology Zurich,Switzerland,"Algorithms, Probability, and Computing",2520209-00X,Computer Science Track Course,COMPA&T,3,B001837-06
+Swiss Federal Institute of Technology Zurich,Switzerland,Big Data,2633010-00X,Cloud Computing and Big Data Systems,COMP4651,3,B011617-06
+Swiss Federal Institute of Technology Zurich,Switzerland,Big Data,2633010-00X,Big Data Mining and Management,COMP4332,3,B011617-05
+Swiss Federal Institute of Technology Zurich,Switzerland,Cloud Computing Architecture,263-3855-00L,Cloud Computing and Big Data Systems,COMP4651,3,B038706-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Computational Semantics for Natural Language Processing,263-5000-00L,Introduction to Natural Language Processing,COMP4221,3,B038707-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Computer Networks,252-0064-00L,Computer Communication Networks I,COMP4621,3,B034974-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Computer Systems,252-0217-00X,Operating Systems,COMP3511,3,B030496-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Data Modelling and Databases,252-0063-00L,Database Management Systems,COMP3311,3,B034975-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Deep Learning,2633210-00L,Computer Science Track Course,COMPA&T,3,B038273-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Formal Methods and Functional Programming,252-0058-00L,Computer Science Track Course,COMPS&D,3,B034981-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Human Computer Interaction,2523110-00L,Human-Computer Interaction,COMP4461,3,B032930-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Information Security,2520211-00X,Computer and Communication Security,COMP4631,3,B013364-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Machine Perception,263-3710-00L,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B035581-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Natural Language Processing,2523005-00L,Introduction to Natural Language Processing,COMP4221,3,B038275-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Natural Language Processing for Law and Social Science,851-0739-01L,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,2,B038726-04
+Swiss Federal Institute of Technology Zurich,Switzerland,Probabilistic Artificial Intelligence,2635210-00L,Computer Science Track Course,COMPA&T,3,B038274-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Program Analysis for System Security and Reliability,263-2925-00L,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B035582-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Quantum Information Processing I: Concepts,402-0448-01L,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B038659-03
+Swiss Federal Institute of Technology Zurich,Switzerland,Research in Computer Science,260-0600-00X,Independent Work,COMP4971,3,B033797-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Research in Computer Science,260-0600-00X,Independent Work,COMP4971,2,B033797-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Rigorous Software Engineering,252-0216-00X,Software Engineering,COMP3111,4,B035988-01
+Swiss Federal Institute of Technology Zurich,Switzerland,Shape Modeling and Geometry Processing,252-0538-00L,Computer Science Track Course,COMPG&M,3,B038705-02
+Swiss Federal Institute of Technology Zurich,Switzerland,Software Engineering,252-0232-00L,Software Engineering,COMP3111,4,B041242-01
+Taylor's University,Malaysia,Computer Architecture and Organisation,ITS62704,Computer Organization,COMP2611,4,B036672-01
+Taylor's University,Malaysia,Database Systems,ITS62904,Database Management Systems,COMP3311,3,B036673-01
+Taylor's University,Malaysia,Object Oriented Programming,ITS63304,Introduction to Computing with Java,COMP1022P,3,B036671-01
+Technical University of Denmark,Denmark,Advanced Computer Architecture,02211,Design and Analysis of Computer Architectures,COMP4611,3,B008387-02
+Technical University of Denmark,Denmark,Algorithms and Data Structures 1,02105,Design and Analysis of Algorithms,COMP3711,3,B037703-01
+Technical University of Denmark,Denmark,Bayesian Machine Learning,02477,Introduction to Bayesian Networks,COMP5213,3,B037705-01
+Technical University of Denmark,Denmark,Computational Imaging and Spectroscopy,34269,Computer Science Track Course,COMPG&M,3,B039321-03
+Technical University of Denmark,Denmark,Computer Security Incident Response,02192,Principles of Cybersecurity,COMP3632,3,B034134-01
+Technical University of Denmark,Denmark,Cryptology 1,01410,Computer and Communication Security,COMP4631,3,B037711-02
+Technical University of Denmark,Denmark,Database Systems,02170,Database Management Systems,COMP3311,3,B003566-03
+Technical University of Denmark,Denmark,Image Analysis,02502,Image Processing,COMP4421,3,B013886-02
+Technical University of Denmark,Denmark,Introduction to Artificial Intelligence,02180,Fundamentals of Artificial Intelligence,COMP3211,3,B003567-03
+Technical University of Denmark,Denmark,Introduction to Machine Learning and Data Mining,02450,Computer Science Track Course,COMPS&D,3,B003569-07
+Technical University of Denmark,Denmark,Network Security,02233,Principles of Cybersecurity,COMP3632,3,B003568-03
+Technical University of Denmark,Denmark,Operating Systems,02159,Operating Systems,COMP3511,3,B006122-02
+Technical University of Denmark,Denmark,Personal Data Interaction for Mobile and Wearables,02808,Mobile Application Development,COMP4521,3,B034373-02
+Technical University of Denmark,Denmark,Programming in C++,02393,Programming with C++,COMP2011,4,B004445-05
+Technical University of Denmark,Denmark,Signals and Data,02462,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B037668-02
+Technical University of Denmark,Denmark,System Integration,02291,Software Engineering,COMP3111,4,B012988-02
+Technische Universität Berlin,Germany,Programming in Java,#,Introduction to Computing with Java,COMP1022P,3,B034354-01
+Technische Universität Berlin through virtual study,Germany,Programming in Java,#,Introduction to Computing with Java,COMP1022P,3,B036249-02
+Technische Universität München,Germany,Database System Concepts for Non-Computer Scientists,IN4714,Database Management Systems,COMP3311,3,B033189-01
+Technische Universität München,Germany,Information and Knowledge Management,IN2105,Computer Science Track Course,COMPS&D,3,B033188-02
+Technische Universität München,Germany,Mining Massive Datasets,IN2323,Big Data Mining and Management,COMP4332,3,B008256-02
+Technische Universität München,Germany,Network Security,IN2101,Computer and Communication Security,COMP4631,3,B033187-01
+Technische Universität München,Germany,Statistical Learning,MA4802,Computer Science Track Course,COMPA&T,3,B035311-03
+Texas A&M University,United States,Artificial Intelligence: HW Technology & Applications,ECEN489,Machine Learning,COMP4211,3,B035467-01
+Texas A&M University,United States,Introduction to Computer Systems,CSCE313,System and Kernel Programming in Linux,COMP4511,3,B040855-01
+Texas A&M University,United States,Networks and Distributed Processing,CSCE463,Computer and Communication Networks,COMP4621,3,B040853-01
+Texas A&M University,United States,Operating Systems,CSCE410,Operating Systems,COMP3511,3,B040854-01
+The Australian National University,Australia,Algorithms,COMP3600,Design and Analysis of Algorithms,COMP3711,3,B038847-01
+The Australian National University,Australia,Introduction to Machine Learning,COMP3670,Machine Learning,COMP4211,3,B038848-01
+The George Washington University,United States,Computer Graphics I,CSCI4554,Computer Graphics,COMP4411,3,B040318-01
+The George Washington University,United States,Machine Learning,CSCI4364,Machine Learning,COMP4211,3,B040338-01
+The Georgia Institute of Technology,United States,Advanced Internet Computing Systems and Application Development,CS4675,Advanced Computer Communications and Networking,COMP5622,3,B037970-01
+The Georgia Institute of Technology,United States,Compilers and Interpreters,CS4240,Computer Science Track Course,COMPS&N,3,B008365-02
+The Georgia Institute of Technology,United States,Computer Networking I,CS3251,Computer Communication Networks I,COMP4621,3,B037969-02
+The Georgia Institute of Technology,United States,Computer Organization and Programming,CS2110,Computer Organization,COMP2611,4,B036468-01
+The Georgia Institute of Technology,United States,Data Structures and Algorithms,CS1332,Design and Analysis of Algorithms,COMP3711,3,B036598-01
+The Georgia Institute of Technology,United States,Deep Learning,CS4644,Computer Science Track Course,COMPA&T,3,B038700-02
+The Georgia Institute of Technology,United States,Design and Analysis of Algorithms,CS3510,Design and Analysis of Algorithms,COMP3711,3,B006820-02
+The Georgia Institute of Technology,United States,Introduction to Computer Vision,CS4476,Computer Vision,COMP5421,3,B034391-01
+The Georgia Institute of Technology,United States,Introduction to Computing,CS1301,Introduction to Computer Science,COMP1021,3,B036883-01
+The Georgia Institute of Technology,United States,Introduction to Database Systems,CS4400,Database Management Systems,COMP3311,3,B013213-02
+The Georgia Institute of Technology,United States,Introduction to Discrete Mathematics for Computer Science,CS2050,Discrete Mathematical Tools for Computer Science,COMP2711,4,B036467-01
+The Georgia Institute of Technology,United States,Introduction to Information Security,CS4235,Computer and Communication Security,COMP4631,3,B033263-01
+The Georgia Institute of Technology,United States,Introduction to Object-Oriented Programming,CS1331,Java Programming,COMP3021,3,B001987-05
+The Georgia Institute of Technology,United States,Machine Learning,CS4641,Machine Learning,COMP4211,3,B008362-02
+The Georgia Institute of Technology,United States,Natural Language Processing,CS4650,Introduction to Natural Language Processing,COMP4221,3,B038123-01
+The Georgia Institute of Technology,United States,Objects and Design,CS2340,Software Engineering,COMP3111,4,B038888-01
+The Georgia Institute of Technology,United States,"Privacy Technology, Policy, & Law",MGT4726/CS4726,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B040722-01
+The Hong Kong Polytechnic University,"Hong Kong SAR, China",Computer Programming,EIE2111,Introduction to Computer Science,COMP1021,3,B039075-03
+The Hong Kong Polytechnic University,"Hong Kong SAR, China",Object-Oriented Design and Programming,EIE3320,Introduction to Computer Science,COMP1021,3,B039074-02
+The University of Birmingham,United Kingdom,Artificial Intelligence 1,0634238,Fundamentals of Artificial Intelligence,COMP3211,3,B036803-01
+The University of Birmingham,United Kingdom,LC Full Stack Application Development,34252,Computer Science Track Course,COMPS&D,3,B040258-02
+The University of Birmingham,United Kingdom,LM Computer Vision and Imaging (Extended),30241,Computer Science Track Course,COMPA&T,3,B040256-02
+The University of Birmingham,United Kingdom,"LM Forensics, Malware, and Penetration Testing",34233,Computer Science Track Course,COMPS&N,3,B040257-02
+The University of Birmingham,United Kingdom,LM Research Topics in HCI,34568,Computer Science Track Course,COMPG&M,3,B040261-02
+The University of Birmingham,United Kingdom,LM Secure Software and Hardware Systems,34240,Computer Science Track Course,COMPS&N,3,B040259-02
+The University of Birmingham,United Kingdom,Msc Introduction to Artificial Intelligence,0627112,Computer Science Track Course,COMPA&T,3,B035827-02
+The University of Birmingham,United Kingdom,Security and Networks,0630195,Computer Science Track Course,COMPS&N,3,B036801-03
+The University of Birmingham,United Kingdom,Visualisation,0632254,Data Visualization,COMP4462,3,B038161-01
+The University of British Columbia,Canada,Applied Machine Learning,CPSC330,Machine Learning,COMP4211,3,B033830-01
+The University of British Columbia,Canada,Computer Graphics,CPSC314,Computer Graphics,COMP4411,3,B005831-02
+The University of British Columbia,Canada,Intermediate Algorithm Design and Analysis,CPSC320,Design and Analysis of Algorithms,COMP3711,3,B037989-01
+The University of British Columbia,Canada,Internet Computing,CPSC317,Computer Communication Networks I,COMP4621,3,B005819-03
+The University of British Columbia,Canada,Introduction to Artificial Intelligence,CPSC322,Fundamentals of Artificial Intelligence,COMP3211,3,B005829-03
+The University of British Columbia,Canada,Introduction to Cybersecurity,CPEN442,Principles of Cybersecurity,COMP3632,3,B039467-01
+The University of British Columbia,Canada,Introduction to Relational Databases,CPSC304,Database Management Systems,COMP3311,3,B005818-03
+The University of British Columbia,Canada,Introduction to Software Engineering,CPSC310,Software Engineering,COMP3111,4,B039458-01
+The University of British Columbia,Canada,System Software Engineering,CPEN333,Operating Systems,COMP3511,3,B037602-01
+The University of British Columbia,Canada,Topics in Computer Engineering - Deep Learning,CPEN400D,Computer Science Track Course,COMPA&T,3,B040860-02
+The University of British Columbia,Canada,Topics in Computer Science - Information Visualization,CPSC436V,Data Visualization,COMP4462,3,B033467-01
+The University of Hong Kong,"Hong Kong SAR, China",Artificial Intelligence Applications,COMP3359,Computer Science Track Course,COMPA&T,3,B039993-02
+The University of Melbourne,Australia,Foundations of Computing,COMP10001,Introduction to Computer Science,COMP1021,3,B033392-01
+The University of New South Wales,Australia,Computing for Engineers,ENGG1811,Introduction to Computer Science,COMP1021,3,B036597-01
+The University of New South Wales,Australia,Data Structures and Algorithms,COMP2521,Design and Analysis of Algorithms,COMP3711,3,B033528-02
+The University of New South Wales,Australia,Database Systems,COMP3311,Database Management Systems,COMP3311,3,B034212-01
+The University of New South Wales,Australia,Extended Algorithms and Programming Techniques,COMP3821,Design and Analysis of Algorithms,COMP3711,3,B034237-01
+The University of New South Wales,Australia,Human Computer Interaction,COMP3511,Human-Computer Interaction,COMP4461,3,B002192-02
+The University of New South Wales,Australia,Neural Networks and Deep Learning,COMP9444,Computer Science Track Course,COMPA&T,3,B034653-02
+The University of New South Wales,Australia,Theory of Computation,COMP4141,Theory of Computation,COMP3721,3,B034213-01
+The University of Texas at Austin,United States,Algorithms,ECE360C,Design and Analysis of Algorithms,COMP3711,3,B040517-01
+The University of Texas at Austin,United States,Algorithms and Complexity,CS331,Design and Analysis of Algorithms,COMP3711,3,B037449-01
+The University of Texas at Austin,United States,Algorithms and Complexity (Honors),CS331H,Honors Design and Analysis of Algorithms,COMP3711H,4,B037489-02
+The University of Texas at Austin,United States,Cloud Computing,CS378,Computer Science Track Course,COMPS&N,3,B037940-02
+The University of Texas at Austin,United States,Cryptography,CS346,Computer Science Track Course,COMPS&N,3,B037946-02
+The University of Texas at Austin,United States,Data Science Principles,ECE461P,Computer Science Track Course,COMPS&D,3,B040890-02
+The University of Texas at Austin,United States,Data Science Principles,EE461P,Data Mining,COMP4331,3,B035167-01
+The University of Texas at Austin,United States,Database Management,MIS325,Database Management Systems,COMP3311,3,B010504-02
+The University of Texas at Austin,United States,Digital Image and Video Processing,EE371R,Image Processing,COMP4421,3,B034189-01
+The University of Texas at Austin,United States,Digital Image Processing,ECE371Q,Image Processing,COMP4421,3,B040499-01
+The University of Texas at Austin,United States,Elements of Data Visualization,CS329E,Data Visualization,COMP4462,3,B037939-01
+The University of Texas at Austin,United States,Elements of Databases,CS327E,Database Management Systems,COMP3311,3,B037938-01
+The University of Texas at Austin,United States,Introduction to Data Mining,CS363D,Data Mining,COMP4331,3,B036229-01
+The University of Texas at Austin,United States,Introduction to Data Mining: Honors,CS378H,Data Mining,COMP4331,3,B032931-02
+The University of Texas at Austin,United States,Machine Learning and Data Analytics for EdgeAI,ECE361E,Computer Science Track Course,COMPA&T,3,B040913-01
+The University of Texas at Austin,United States,Machine Learning and Data Analytics for EdgeAI,EE379K,Computer Science Track Course,COMPA&T,3,B037880-02
+The University of Texas at Austin,United States,Machine Learning Toolbox for Text Analysis,LIN373/LIN373N,Computer Science Track Course,COMPA&T,3,B032933-02
+The University of Texas at Austin,United States,Natural Language Processing,CS378,Introduction to Natural Language Processing,COMP4221,3,B037486-01
+The University of Texas at Austin,United States,Operating Systems,EE461S,Operating Systems,COMP3511,3,B037487-01
+The University of Texas at Austin,United States,Principles of Computer Systems,CS439,Operating Systems,COMP3511,3,B037450-01
+The University of Texas at Austin,United States,Programming for Performance,CS377P,Computer Science Track Course,COMPS&D,3,B037451-02
+The University of Texas at Austin,United States,Programming Languages,CS345,Principles of Programming Languages,COMP3031,3,B037485-01
+The University of Texas at Austin,United States,Theory of Computation,CS353,Theory of Computation,COMP3721,3,B034188-01
+The University of Utah,United States,Algorithms - Quantitative Intensive,CS4150,Computer Science Track Course,COMPA&T,3,B035928-02
+The University of Utah,United States,Traditional Game Development,EAE3710,Computer Science Track Course,COMPG&M,3,B035926-01
+Tokyo Institute of Technology,Japan,Internet Infrastructure,TST441,Computer Science Track Course,COMPS&N,2,B033930-02
+Universidad Carlos III de Madrid,Spain,Artificial Intelligence,17306,Fundamentals of Artificial Intelligence,COMP3211,3,B040596-01
+Universidad Carlos III de Madrid,Spain,Files and Databases,18278,Database Management Systems,COMP3311,3,B040592-01
+Universidad Carlos III de Madrid,Spain,Medical Image Processing,14158,Computer Science Track Course,COMPG&M,3,B040945-02
+Universitat Politècnica de València,Spain,Algorithm for Problem Solving,11650,Computer Science Track Course,COMPA&T,3,B040304-02
+Universitat Politècnica de València,Spain,Design and Management of Genomic Information Systems,14104,Computer Science Track Course,COMPS&D,2,B040308-03
+Universitat Politècnica de València,Spain,Quantum Computing,14094,Computer Science Track Course,COMPA&T,3,B040924-02
+Universitat Politècnica de València,Spain,Social Network Analysis,14034,Social Information Network Analysis and Engineering,COMP4641,3,B040305-01
+Université Grenoble Alpes,France,Database Foundation,#,Database Management Systems,COMP3311,3,B034508-01
+University of Bristol,United Kingdom,Advanced Computer Architecture,COMSM0109,Design and Analysis of Computer Architectures,COMP4611,3,B032916-02
+University of Bristol,United Kingdom,Image Processing and Computer Vision,COMS30121,Image Processing,COMP4421,3,B002907-02
+University of Bristol,United Kingdom,Machine Learning,COMS30007,Machine Learning,COMP4211,3,B032915-01
+"University of California, Berkeley",United States,(Statistical) Natural Language Processing,CS288,Natural Language Processing,COMP5221,3,B033901-01
+"University of California, Berkeley",United States,Applications of Parallel Computers,CS267/E233,Parallel Programming,COMP5112,3,B033898-01
+"University of California, Berkeley",United States,Combinatorial Algorithms and Data Structures,CS270,Introduction to Combinatorial Optimization,COMP5712,3,B033899-01
+"University of California, Berkeley",United States,Computability and Complexity,CS172,Theory of Computation,COMP3721,3,B033893-01
+"University of California, Berkeley",United States,Computer security,COMPSCI161,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3,B034444-01
+"University of California, Berkeley",United States,Computer Vision,CS280,Computer Vision,COMP5421,3,B033900-01
+"University of California, Berkeley",United States,Digital Image Processing,EECS225B,Image Processing,COMP4421,3,B034093-01
+"University of California, Berkeley",United States,Foundations of Computer Graphics,CS184/284A,Computer Graphics,COMP4411,3,B033895-01
+"University of California, Berkeley",United States,Great Ideas of Computer Architecture / Machine Structures,COMPSCI61C/CS61C,Computer Organization,COMP2611,4,B038270-01
+"University of California, Berkeley",United States,Image Manipulation and Computational Photography,CS194-26,Computer Science Track Course,COMPG&M,3,B033897-02
+"University of California, Berkeley",United States,Introduction to Database Systems,COMPSCIW186,Database Management Systems,COMP3311,3,B034190-01
+"University of California, Berkeley",United States,Machine Structures,COMPSCI61C,Computer Organization,COMP2611,4,B012609-02
+"University of California, Berkeley",United States,"Qubits, Quantum Mechanics and Computers",CHEM/CS/PHYS191,Computer Science Track Course,COMPA&T,3,B033896-02
+"University of California, Berkeley",United States,The Beauty and Joy of Computing,COMPSCI10,Introduction to Computer Science,COMP1021,3,B013502-03
+"University of California, Berkeley",United States,The Structure and Interpretation of Computer Programs,COMPSCI61A,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,4,B033417-01
+"University of California, Berkeley through virtual study",United States,Data Structure and Programming Methodology,COMPSCI61BL,Object-Oriented Programming and Data Structures,COMP2012,4,B036238-01
+"University of California, Berkeley through virtual study",United States,Introduction to Artificial Intelligence,COMPSCI188,Fundamentals of Artificial Intelligence,COMP3211,3,B036161-01
+"University of California, Berkeley through virtual study",United States,Operating Systems and System Programming,COMPSCI162,Operating Systems,COMP3511,3,B035961-01
+"University of California, Berkeley through virtual study",United States,Software Engineering,COMPSCIW169A,Software Engineering,COMP3111,4,B036162-01
+"University of California, Davis",United States,Introduction to Artificial Intelligence,ECS170,Fundamentals of Artificial Intelligence,COMP3211,3,B040715-01
+"University of California, Davis",United States,Introduction to Data Structures,ENGCS032B,Introduction to Computer Science,COMP1021,3,B034948-01
+"University of California, Irvine",United States,Intro to Software Engineering,INFORMATICS43,Software Engineering,COMP3111,4,B032592-04
+"University of California, Irvine",United States,Principles of Operating Systems,COMPSCI143A,Operating Systems,COMP3511,3,B035673-01
+"University of California, Los Angeles",United States,Programming Languages,COMSCI131/CS131,Principles of Programming Languages,COMP3031,3,B034305-01
+"University of California, Los Angeles through virtual study",United States,Operating System Principles,COMSCI111,Operating Systems,COMP3511,3,B036921-01
+"University of California, Riverside",United States,Design of Operating Systems,CS153,Operating Systems,COMP3511,3,B040054-01
+"University of California, Riverside",United States,Introduction to Machine Learning and Data Mining,CS171,Computer Science Track Course,COMPA&T,3,B040059-03
+"University of California, Riverside",United States,Introduction to Software Engineering,CS180,Software Engineering,COMP3111,4,B040056-01
+"University of California, Riverside",United States,Software Construction,CS100,Software Engineering,COMP3111,4,B040063-01
+"University of California, San Diego",United States,Advanced Data Structures,CSE100,Computer Science Track Course,COMPS&D,3,B037827-01
+"University of California, San Diego",United States,Data Science in Practice,COGS108,Data Mining,COMP4331,3,B035018-01
+"University of California, San Diego",United States,Design and Analysis of Algorithms,CSE101,Design and Analysis of Algorithms,COMP3711,3,B034586-01
+"University of California, San Diego",United States,Intro to Computer Security,CSE127,Principles of Cybersecurity,COMP3632,3,B037779-01
+"University of California, San Diego",United States,Introduction to Computer Science and Object-Oriented Programming: Java,CSE11,Introduction to Computing with Java,COMP1022P,3,B001809-04
+"University of California, San Diego",United States,Software Engineering,CSE110,Software Engineering,COMP3111,4,B001812-02
+"University of California, San Diego",United States,Ubiquitous Computing,CSE118,Computer Science Track Course,COMPS&N,3,B040617-02
+"University of California, Santa Barbara",United States,Introduction to Computer Vision,CMPSC181,Computer Science Track Course,COMPG&M,3,B040785-02
+"University of California, Santa Barbara",United States,Operating Systems,CS170/CMPSC170,Operating Systems,COMP3511,3,B030643-02
+University of Exeter,United Kingdom,Computability and Complexity,ECM3422,Theory of Computation,COMP3721,3,B036437-01
+University of Exeter,United Kingdom,Computer Graphics,ECM3423,Computer Graphics,COMP4411,3,B036453-02
+University of Exeter,United Kingdom,Database theory and design,ECM2419,Database Management Systems,COMP3311,3,B010180-02
+University of Exeter,United Kingdom,Discrete Mathematics For Computer Science,ECM1415,Discrete Mathematical Tools for Computer Science,COMP2711,4,B038593-01
+University of Exeter,United Kingdom,Learning from Data,ECM3420,Machine Learning,COMP4211,3,B015075-03
+University of Exeter,United Kingdom,Nature Inspired Computation,ECM3412,Computer Science Track Course,COMPA&T,3,B036436-03
+University of Exeter,United Kingdom,Nature Inspired Computation,ECM3412,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B036436-04
+University of Exeter,United Kingdom,Software Development,ECM2414,Computer Science Track Course,COMPS&D,3,B036454-04
+University of Florida,United States,Human Computer Interaction,CEN4721,Human-Computer Interaction,COMP4461,3,B037024-01
+University of Florida,United States,Information and Database Systems I,CIS4301,Database Management Systems,COMP3311,3,B037025-01
+University of Florida,United States,Natural Language Processing with Python,CIS4930,Computer Science Track Course,COMPA&T,3,B037026-02
+University of Florida,United States,Operating Systems,COP4600,Operating Systems,COMP3511,3,B037023-01
+University of Florida,United States,Programming Language Concepts,COP4020,Computer Science Track Course,COMPS&D,3,B037027-02
+University of Glasgow,United Kingdom,"Big Data: Systems, Programming, and Management (H)",COMPSCI4064,Cloud Computing and Big Data Systems,COMP4651,3,B033440-01
+University of Glasgow,United Kingdom,Information Retrieval (H),COMPSCI4069,Search Engines for Web and Enterprise Data,COMP4321,3,B033061-01
+University of Illinois at Urbana - Champaign,United States,Artificial Intelligence,CS440,Fundamentals of Artificial Intelligence,COMP3211,3,B003074-02
+University of Illinois at Urbana - Champaign,United States,Computational Photography,CS445,Image Processing,COMP4421,3,B038177-01
+University of Illinois at Urbana - Champaign,United States,Computer Vision,CS543,Computer Vision,COMP5421,3,B037173-01
+University of Illinois at Urbana - Champaign,United States,Data Visualization,IS445,Data Visualization,COMP4462,3,B040684-01
+University of Illinois at Urbana - Champaign,United States,Database Systems,CS411,Database Management Systems,COMP3311,3,B002122-03
+University of Illinois at Urbana - Champaign,United States,Discrete & Computational Geometry,CS498,Computer Science Track Course,COMPA&T,3,B040637-02
+University of Illinois at Urbana - Champaign,United States,Discrete Structures,CS173,Discrete Mathematical Tools for Computer Science,COMP2711,4,B005658-02
+University of Illinois at Urbana - Champaign,United States,Distributed Systems,CS425,Computer Science Track Course,COMPS&N,3,B038037-01
+University of Illinois at Urbana - Champaign,United States,Distributed Systems,CS425,Computer Science Track Course,COMPS&N,3,B038800-01
+University of Illinois at Urbana - Champaign,United States,Interactive Computer Graphics,CS418,Computer Graphics,COMP4411,3,B012675-02
+University of Illinois at Urbana - Champaign,United States,Introduction to Computer Science II,CS128,Programming with C++,COMP2011,4,B039456-01
+University of Illinois at Urbana - Champaign,United States,Introduction to Machine Perception,CS498,Computer Science Track Course,COMPA&T,3,B038036-03
+University of Illinois at Urbana - Champaign,United States,Software Engineering I,CS427,Software Engineering,COMP3111,4,B002121-02
+University of Illinois at Urbana - Champaign,United States,System Programming,CS341,Computer Science Track Course,COMPS&N,3,B040639-02
+University of Illinois at Urbana - Champaign,United States,System Programming,CS341,Operating Systems,COMP3511,3,B040639-03
+University of Maryland,United States,Algorithm,CMSC351,Design and Analysis of Algorithms,COMP3711,3,B039727-01
+University of Maryland,United States,"Bioinformatic Algorithms, Databases, and Tools",CMSC423,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B039846-01
+University of Maryland,United States,Design and Implementation of Programming Languages,CMSC430,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B040482-01
+University of Maryland,United States,Introduction to Parallel Computing,CMSC416,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,3,B040240-02
+University of Maryland,United States,Organization of Programming Languages,CMSC330,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B040371-02
+University of Maryland,United States,Web Application Development with JavaScript,CMSC335,Internet Computing,COMP4021,3,B039729-01
+University of Massachusetts Amherst,United States,Algorithms for Data Science,COMPSCI514,Data Mining,COMP4331,3,B033986-01
+University of Massachusetts Amherst,United States,Artificial Intelligence,COMPSCI383,Fundamentals of Artificial Intelligence,COMP3211,3,B033985-01
+University of Massachusetts Amherst,United States,Introduction to Computer Graphics,COMPSCI373,Computer Graphics,COMP4411,3,B034002-01
+University of Massachusetts Amherst,United States,Machine Learning,COMPSCI589,Machine Learning,COMP4211,3,B033987-01
+University of Massachusetts Amherst,United States,Operating Systems,COMPSCI377,Operating Systems,COMP3511,3,B033984-01
+University of Michigan,United States,Data Structures and Algorithms,EECS281,Computer Science Track Course,COMPA&T,3,B032597-03
+University of Michigan,United States,Discrete Mathematics,EECS203,Discrete Mathematical Tools for Computer Science,COMP2711,4,B034104-01
+University of Michigan,United States,Introduction to computer organization,EECS370,Computer Organization,COMP2611,4,B034108-01
+University of Michigan,United States,Models of Social Information Processing,SI301,Social Information Network Analysis and Engineering,COMP4641,3,B038336-01
+University of Michigan,United States,Natural Language Processing,SI561,Introduction to Natural Language Processing,COMP4221,3,B038419-01
+University of Minnesota,United States,Internet Programming,CSCI4131,Internet Computing,COMP4021,3,B034972-01
+University of Minnesota,United States,Introduction to Artificial Intelligence,CSCI4511W,Fundamentals of Artificial Intelligence,COMP3211,3,B034169-01
+University of Minnesota,United States,Introduction to Operating Systems,CSCI4061,Operating Systems,COMP3511,3,B034167-01
+University of Notre Dame,United States,Computer security,CSE40567,Computer and Communication Security,COMP4631,3,B035003-01
+University of Notre Dame,United States,Database System Concepts,CSE30246,Database Management Systems,COMP3311,3,B033125-01
+University of Notre Dame,United States,Human Computer Interaction,CSE40424,Human-Computer Interaction,COMP4461,3,B033126-01
+University of Notre Dame,United States,Introduction to Artificial Intelligence,CSE40171,Fundamentals of Artificial Intelligence,COMP3211,3,B033127-01
+University of Notre Dame,United States,Operating System Principles,CSE30341,Operating Systems,COMP3511,3,B034999-01
+University of Pennsylvania,United States,Applied Machine Learning,CIS4190,Machine Learning,COMP4211,3,B040011-02
+University of Pennsylvania,United States,Computer Operating Systems,CIS380,Operating Systems,COMP3511,3,B005799-02
+University of Pennsylvania,United States,Computer Systems Programming,CIT595,Operating Systems,COMP3511,3,B037788-01
+University of Pennsylvania,United States,Database & Information Systems (eqv code: CIS450),CIS450/550,Database Management Systems,COMP3311,3,B007857-03
+University of Pennsylvania,United States,Deep Learning,CIS522,Computer Science Track Course,COMPA&T,3,B034349-01
+University of Pennsylvania,United States,Embedded Software for Life-Critical CPS,CIS441,Computer Science Track Course,COMPS&N,3,B037373-02
+University of Pennsylvania,United States,Internet and Web Systems,CIS455/555,Computer Science Track Course,COMPS&D,3,B037182-02
+University of Pennsylvania,United States,Introduction to Algorithms,CIS320,Design and Analysis of Algorithms,COMP3711,3,B037183-01
+University of Pennsylvania,United States,Introduction to Blockchain,CIS233,"Introduction to Blockchain, Cryptocurrencies and Smart Contracts",COMP4901W,3,B038109-03
+University of Pennsylvania,United States,Introduction to Computer Architecture / Intro to Comp Systems,CIS240,Computer Organization,COMP2611,4,B005798-02
+University of Pennsylvania,United States,Introduction to Computer Graphics,CIS460,Computer Graphics,COMP4411,3,B034379-01
+University of Pennsylvania,United States,Introduction to Computer Systems,CIS2400,Computer Organization,COMP2611,4,B040010-02
+University of Pennsylvania,United States,Market and Social Systems on the Internet,NETS150,Social Information Network Analysis and Engineering,COMP4641,3,B038026-01
+University of Pennsylvania,United States,Software Deisgn & Engineering,CIS350,Software Engineering,COMP3111,4,B033097-01
+University of Southampton,United Kingdom,Causal Reasoning and Machine Learning,COMP3224,Computer Science Track Course,COMPA&T,3,B039769-02
+University of Southampton,United Kingdom,Cloud Application Development,COMP3207,Computer Science Track Course,COMPS&D,3,B034670-02
+University of Southampton,United Kingdom,Foundations of Machine Learning,COMP3223,Machine Learning,COMP4211,3,B034672-01
+University of Southampton,United Kingdom,Real-Time Computing and Embedded Systems,COMP3215,Computer Science Track Course,COMPS&N,3,B034671-02
+University of Southern California,United States,Android App Development,ITP341,Mobile Application Development,COMP4521,3,B034684-01
+University of Southern California,United States,Blockchain,ITP256,4000-level Course in Computer Science and Engineering,COMP4000LEVEL,4,B037765-01
+University of Southern California,United States,Building A High Tech Startup,ITP466,IT Entrepreneurship,COMP4911,3,B038013-01
+University of Southern California,United States,Compiler Development,ITP439,Computer Science Track Course,COMPS&D,4,B034450-02
+University of Southern California,United States,"Database Systems: Concepts, Design, and Implementation",ISE382,Database Management Systems,COMP3311,3,B037903-01
+University of Southern California,United States,Introduction to Computer and Network Security,CSCI430,Practicing Cybersecurity: Attacks and Counter-measures,COMP4632,3,B003670-02
+University of Southern California,United States,Introduction to Computer Systems,CSCI356,Computer Organization,COMP2611,4,B034925-01
+University of Southern California,United States,Introduction to Internet working,CSCI353,Computer Communication Networks I,COMP4621,3,B034451-01
+University of Southern California,United States,Introduction to Programming,CSCI103,Programming with C++,COMP2011,4,B033090-01
+University of Southern California,United States,Introduction to Web Development,ITP104,Internet Computing,COMP4021,3,B039839-01
+University of Southern California,United States,Principles of Software Development,CSCI201,Computer Science Track Course,COMPS&D,3,B001521-02
+University of Southern California,United States,Programming Graphical User Interfaces,ITP368,Computer Science Track Course,COMPG&M,3,B034685-01
+University of Southern Denmark,Denmark,Android Programming,T560013101,Mobile Application Development,COMP4521,3,B037635-01
+University of Southern Denmark,Denmark,Applied Machine Learning,T590028101,Computer Science Track Course,COMPA&T,3,B040346-03
+University of Southern Denmark,Denmark,Artificial Intelligence,T510009101,Fundamentals of Artificial Intelligence,COMP3211,3,B037307-01
+University of Southern Denmark,Denmark,Data Mining and Machine Learning,DM566,Computer Science Track Course,COMPA&T,3,B037305-02
+University of Southern Denmark,Denmark,Engineering Optimization,T600012101,Computer Science Track Course,COMPS&N,3,B040017-02
+University of Southern Denmark,Denmark,Simulations and Computer Games,T570016101,Computer Science Track Course,COMPG&M,3,B040348-01
+University of Southern Denmark,Denmark,Software Architecture,T510033101,Computer Science Track Course,COMPS&D,3,B040016-02
+University of Southern Denmark,Denmark,Software Technology for Internet of Things,T520035101,Computer Science Track Course,COMPS&D,3,B040347-01
+University of St. Gallen,Switzerland,Introduction to Cryptography and Cybersecurity,"7,377",Principles of Cybersecurity,COMP3632,3,B039285-01
+University of St. Gallen,Switzerland,Machine Learning (BBWL),"6,126",Computer Science Track Course,COMPA&T,2,B040558-02
+University of Sussex,United Kingdom,Computer Vision,G6032,Computer Science Track Course,COMPA&T,3,B040427-02
+University of Sussex,United Kingdom,Fundamentals of Machine Learning,G6061,Machine Learning,COMP4211,3,B040426-01
+University of Sussex,United Kingdom,Natural Language Engineering,G5119,Introduction to Natural Language Processing,COMP4221,3,B033828-01
+University of Sussex,United Kingdom,Operating Systems,G6059,Operating Systems,COMP3511,3,B008757-02
+University of Sussex,United Kingdom,Software Engineering,G6046,Software Engineering,COMP3111,4,B040429-01
+University of Toronto,Canada,Computer and Society,CSC300,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B033638-01
+University of Toronto,Canada,Computer Organization,CSC258H1,Computer Organization,COMP2611,4,B033044-01
+University of Toronto,Canada,Computers and Society,CSC300H1,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B033069-02
+University of Toronto,Canada,Data Structures and Analysis,CSC263H1,Design and Analysis of Algorithms,COMP3711,3,B033003-02
+University of Toronto,Canada,Programming on the Web,CSC309H1,Internet Computing,COMP4021,3,B040184-01
+University of Toronto,Canada,Software Design,CSC207H1,2000-level Course in Computer Science and Engineering,COMP2000LEVEL,3,B040187-01
+University of Virginia,United States,Database Management Systems & Business Intelligence,COMM3220,Database Management Systems,COMP3311,3,B008277-02
+University of Washington,United States,Computer Programming I & II,CSE143X,Programming with C++,COMP2011,4,B033758-01
+University of Washington,United States,Computer Programming II,CSE143,Object-Oriented Programming and Data Structures,COMP2012,4,B034415-02
+University of Washington,United States,Data Visualization,CSE442,Data Visualization,COMP4462,3,B030427-03
+University of Washington,United States,GIS Database and Programming,GEOG465,Database Management Systems,COMP3311,3,B033759-01
+University of Washington,United States,Interaction Programming,CSE340,3000-level Course in Computer Science and Engineering,COMP3000LEVEL,3,B040190-01
+University of Washington,United States,Introduction to Artificial Intelligence,CSE415,Fundamentals of Artificial Intelligence,COMP3211,3,B015277-02
+University of Washington,United States,Introduction to Operating Systems,CSE451,Operating Systems,COMP3511,3,B032851-01
+University of Washington,United States,Introduction to Programming I,COMPSCI&ENG142,Introduction to Computing with Java,COMP1022P,3,B032949-02
+University of Washington,United States,Software Engineering,CSE403,Software Engineering,COMP3111,4,B040188-01
+University of Washington,United States,The Hardware/Software Interface,CSE351,Computer Organization,COMP2611,4,B013656-01
+University of Waterloo,Canada,Algorithms,CS341,Design and Analysis of Algorithms,COMP3711,3,B010766-02
+University of Waterloo,Canada,Algorithms and Data Structures,ECE250,Design and Analysis of Algorithms,COMP3711,3,B007564-02
+University of Waterloo,Canada,Application Development,CS346,Computer Science Track Course,COMPS&D,3,B040899-02
+University of Waterloo,Canada,Computer Networks,CS456,Computer Communication Networks I,COMP4621,3,B012905-02
+University of Waterloo,Canada,Computer Security and Privacy,CS458,Computer and Communication Security,COMP4631,3,B037586-01
+University of Waterloo,Canada,Image Processing,ECE417,Image Processing,COMP4421,3,B030945-02
+University of Waterloo,Canada,Introduction to Artificial Intelligence,CS486,Fundamentals of Artificial Intelligence,COMP3211,3,B008440-02
+University of Waterloo,Canada,Introduction to Machine Learning,CS480,Machine Learning,COMP4211,3,B030955-03
+University of Waterloo,Canada,Introduction to Quantum Information Processing,PHYS467/CS467/CO481,Computer Science Track Course,COMPA&T,3,B015221-03
+University of Waterloo,Canada,Networks and Distributed Computer Systems,CS436,Computer Communication Networks I,COMP4621,3,B035125-01
+University of Waterloo,Canada,Operating Systems,CS350,Operating Systems,COMP3511,3,B008435-02
+University of Waterloo,Canada,Operating Systems and Systems Programming,ECE254,Operating Systems,COMP3511,3,B030021-01
+University of Waterloo,Canada,Principles of Programming Languages,CS442,Principles of Programming Languages,COMP3031,3,B037585-01
+University of Waterloo,Canada,Real-Time Operating Systems,ECE350,Operating Systems,COMP3511,3,B036510-01
+University of Waterloo,Canada,Software Design and Architecture,ECE452,Software Engineering,COMP3111,4,B037375-01
+University of Waterloo,Canada,User Interfaces,CS349,Computer Science Track Course,COMPG&M,3,B008597-03
+UOW College Hong Kong,"Hong Kong SAR, China",Application for Portable Devices,AST20207,Computer Science Track Course,COMPS&D,3,B000180-03
+UOW College Hong Kong,"Hong Kong SAR, China",Computer Organization,AST10201,Computer Organization,COMP2611,4,B002248-02
+UOW College Hong Kong,"Hong Kong SAR, China",Computer System Development,AST20613,Computer Science Track Course,COMPS&D,3,B002346-02
+UOW College Hong Kong,"Hong Kong SAR, China",Database Systems and Design (eqv code: DCO20401),AST20401,Database Management Systems,COMP3311,3,B000120-05
+UOW College Hong Kong,"Hong Kong SAR, China",Discrete Mathematics,AST21111,Computer Science Track Course,COMPA&T,3,B002772-07
+UOW College Hong Kong,"Hong Kong SAR, China",Information Systems in Business (eqv code: DCO20404),AST20404,Computer Science Track Course,COMPS&D,3,B000123-03
+UOW College Hong Kong,"Hong Kong SAR, China",Internet Security,AST20203,Computer and Communication Security,COMP4631,3,B000116-03
+UOW College Hong Kong,"Hong Kong SAR, China",Introduction to Programming,AST10106,Introduction to Computing with Java,COMP1022P,3,B002224-03
+UOW College Hong Kong,"Hong Kong SAR, China",Introduction to Web Development,AST11110,Internet Computing,COMP4021,3,B033012-01
+UOW College Hong Kong,"Hong Kong SAR, China",Mobile Applications Development,AST20208,Mobile Application Development,COMP4521,3,B039238-01
+UOW College Hong Kong,"Hong Kong SAR, China",Object-Oriented Programming and Design (eqv code: DCO10105/DCO21105),AST21105,Introduction to Computing with Java,COMP1022P,3,B000107-05
+UOW College Hong Kong,"Hong Kong SAR, China",Database and its Applications,AST21401,Introduction to Computer Science,COMP1021,3,B039190-01
+UOW College Hong Kong,"Hong Kong SAR, China",Software Design,AST21402,Computer Science Track Course,COMPS&D,3,B039239-02
+UOW College Hong Kong,"Hong Kong SAR, China",Software Development Project,AST21403,Software Engineering,COMP3111,4,B039376-02
+UOW College Hong Kong,"Hong Kong SAR, China",Understanding the Network-Centric World,AST10303,Computer Communication Networks I,COMP4621,3,B002249-05
+UOW College Hong Kong,"Hong Kong SAR, China",Web Programming (eqv code: DCO20201),AST20201,Internet Computing,COMP4021,3,B000114-03
+Vanderbilt University,United States,Discrete Structures,CS2212,Discrete Mathematical Tools for Computer Science,COMP2711,4,B034366-01
+Waseda University,Japan,Operating Systems,INFK31ZL,Operating Systems,COMP3511,3,B040225-01
+Washington University in St. Louis,United States,Computer Science I,CSE131,Introduction to Computing with Java,COMP1022P,3,B014039-02
+Washington University in St. Louis,United States,Introduction to Intelligent AgentsUsing Science Fiction,CSE311A,Computer Science Track Course,COMPA&T,3,B034950-02
+Washington University in St. Louis,United States,Logic and Discrete Mathematics,CSE240,Discrete Mathematical Tools for Computer Science,COMP2711,4,B040260-01
+Washington University in St. Louis,United States,Machine Learning,CSE517A,Machine Learning,COMP4211,3,B014897-05
+Washington University in St. Louis,United States,Operating Systems Organization,CSE422S,Operating Systems,COMP3511,3,B012503-02
+Washington University in St. Louis,United States,Operating Systems Organization,CSE422S,System and Kernel Programming in Linux,COMP4511,3,B012503-03
+Yale University through virtual study,United States,Introduction to Computing for Engineers and Scientists,ENAS130,C Programming Bridging Course,COMP1029C,1,B037089-01
+Yonsei University,"Korea, Republic of",AI & Design,IEE2087,Computer Science Track Course,COMPA&T,3,B040332-02
+Yonsei University,"Korea, Republic of",Algorithm Analysis,CSI3108,Design and Analysis of Algorithms,COMP3711,3,B035488-01
+Yonsei University,"Korea, Republic of",Database System,LIS3701,Database Management Systems,COMP3311,3,B034961-01
+Yonsei University,"Korea, Republic of",Information Visualization,LIS4809,Data Visualization,COMP4462,3,B034965-01
+Yonsei University,"Korea, Republic of",Introduction to Big Data Analysis,IEE3593,Computer Science Track Course,COMPS&D,3,B040336-04
+Yonsei University,"Korea, Republic of",Introduction to Computer Graphics,IEE2082-01,Computer Science Track Course,COMPG&M,3,B040331-02
+Yonsei University,"Korea, Republic of",Introduction to Python Programming,IEE1159-01,Introduction to Computer Science,COMP1021,3,B040006-01
+Yonsei University,"Korea, Republic of",Machine Learning,CSI4120,Machine Learning,COMP4211,3,B034963-01
+Yonsei University,"Korea, Republic of",Object-Oriented Programming,CSI2102,Object-Oriented Programming and Data Structures,COMP2012,4,B035487-01
+Yonsei University,"Korea, Republic of",Operating System,CSI3101,Operating Systems,COMP3511,3,B034962-01
+Yonsei University,"Korea, Republic of",SW Programming,YCS1002-03,Introduction to Computer Science,COMP1021,3,B035640-01
+Yonsei University,"Korea, Republic of",Text Mining,LIS4810,Computer Science Track Course,COMPA&T,3,B034964-02
+Yonsei University through virtual study,"Korea, Republic of",Algorithm Analysis,CSI3108,Design and Analysis of Algorithms,COMP3711,3,B036039-01
+Yonsei University through virtual study,"Korea, Republic of",SW Programming,YCS1002,Introduction to Computer Science,COMP1021,3,B036038-01

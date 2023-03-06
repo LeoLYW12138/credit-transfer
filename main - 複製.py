@@ -1,9 +1,6 @@
 import csv
-from decimal import Decimal
 import time
 import traceback
-import sqlite3
-from sqlite3 import Error
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -22,11 +19,11 @@ NAME = "Any"
 COURSE_CODE = "COMP"
 COURSE = "Any"
 
-FILENAME = f"{TERM}_{COUNTRY}_{COURSE_CODE}"
+FILENAME = f"2022-23 Spring_Any_NUS.csv"
 
 
 def get_url(
-    n): return f"https://registry.hkust.edu.hk/useful-tools/credit-transfer/database-institution/results-institution?admission_term={'+'.join(TERM.split())}&country_institution={COUNTRY}&institution_name={NAME}&hkust_course_code={COURSE_CODE}&hkust_subject={COURSE}&form_build_id=form-YNkfBITcgeGJuyJbhEkCB2Lf305x-aQPsXw-2PKV9Uw&form_id=institution_results_form&op=Search&page={n}"
+    n): return f"https://registry.hkust.edu.hk/useful-tools/credit-transfer/database-institution/results-institution?page=1&institution_name=National+University+of+Singapore&admission_term=2022-23+Spring&hkust_subject=Any&hkust_course_code=Any&country_institution=Singapore&page={n}"
 
 
 def get_page_data(driver, url):
@@ -51,7 +48,7 @@ def get_page_data(driver, url):
 
 
 def get_result_obj(result):
-    from re import findall
+
     def get_course_obj(item):
         oversea_course = item.find_element(
             By.CSS_SELECTOR,
@@ -71,7 +68,7 @@ def get_result_obj(result):
         ref = item.find_element(
             By.CSS_SELECTOR,
             ".tile__ref__number").text.strip()
-        return {"oversea_course": oversea_course, "oversea_code": oversea_code, "ust_course": ust_course, "ust_code": ust_code, "credit": int(findall(r'\d+', credit)[0]), "ref": ref}
+        return {"oversea_course": oversea_course, "oversea_code": oversea_code, "ust_course": ust_course, "ust_code": ust_code, "credit": credit, "ref": ref}
 
     country = result.find_element(
         By.CSS_SELECTOR,
@@ -85,13 +82,13 @@ def get_result_obj(result):
 
 
 def write_csv():
-    with open(FILENAME+".csv", 'w', newline='', encoding='utf-8-sig') as f:
+    with open(FILENAME, 'w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
 
 
 def append_csv(data):
-    with open(FILENAME+".csv", 'a', newline='', encoding='utf-8-sig') as f:
+    with open(FILENAME, 'a', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         name = data["school_name"]
         country = data["country"]
@@ -99,57 +96,6 @@ def append_csv(data):
             writer.writerow(
                 {"school_name": name, "country": country, **course})
 
-def conn_db(db_file):
-    conn = None
-    try:
-        conn = sqlite3.connect(db_file)
-    except Error as e:
-        print(e)
-    return conn
-  
-def create_table_if_not_exists(conn, tableName):
-    try:
-        c = conn.cursor()
-        c.execute(f"CREATE TABLE IF NOT EXISTS '{tableName}' ( school_name TEXT, country TEXT, oversea_course TEXT, oversea_code TEXT, ust_course TEXT, ust_code TEXT, credit INTEGER, ref TEXT)")
-    except Error as e:
-        print(e)
-
-def insert_data(conn, tableName, data):
-    try:
-        c = conn.cursor()
-        
-        for course in data["courses"]:
-          variable = (data["school_name"], data["country"], course["oversea_course"], course["oversea_code"], course["ust_course"], course["ust_code"], course["credit"], course["ref"])
-          c.execute(f"INSERT INTO '{tableName}' VALUES (?,?,?,?,?,?,?,?)", variable)
-    except Error as e:
-        print(e)
-
-def search(conn, tableName, school_name=None, country=None, oversea_course=None, oversea_code=None, ust_course=None, ust_code=None, credit=None, ref=None):
-    try:
-        c = conn.cursor()
-        query = {
-          "school_name": school_name,
-          "country": country,
-          "oversea_course": oversea_course,
-          "oversea_code": oversea_code,
-          "ust_course": ust_course,
-          "ust_code": ust_code,
-          "credit": credit,
-          "ref": ref
-        }
-        def make_query_str(key, value):
-          if type(value) == str:
-            return f"{key}='{value}'"
-          elif type(value) == int:
-            return f"{key}={value}"
-          else:
-            return f"UNIMPLEMENTED TYPE {type(value)}"
-
-        query_str = " AND ".join([make_query_str(key, value) for key, value in query.items() if value is not None])
-        
-        return c.execute(f"SELECT * FROM '{tableName}'" + (f"WHERE {query_str}" if len(query_str) > 0 else "")).fetchall()
-    except Error as e:
-        print(e)
 
 def main():
     options = webdriver.ChromeOptions()
@@ -168,12 +114,6 @@ def main():
     driver = webdriver.Chrome(service=Service(
         ChromeDriverManager().install()), options=options)
 
-    db_conn = conn_db("credit_transfer.db")
-    if (db_conn is None):
-      print("Error! cannot create the database connection. Skip for now.")
-    
-    create_table_if_not_exists(db_conn, FILENAME)
-
     write_csv()
     i = 1
     cumulative_count = 0
@@ -187,8 +127,6 @@ def main():
 
             for result in results:
                 append_csv(get_result_obj(result))
-                insert_data(db_conn, FILENAME, get_result_obj(result))
-                db_conn.commit()
 
             t_end = time.perf_counter()
 
@@ -201,10 +139,8 @@ def main():
     except:
         traceback.print_exc()
     finally:
-        if db_conn:
-            db_conn.close()
         driver.quit()
-        print(f"Scrapped {cumulative_count}. Exit now.")
+        print("finally")
 
 
 if __name__ == '__main__':
